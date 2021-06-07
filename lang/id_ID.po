@@ -1,0 +1,1612 @@
+# Translation of Plugins - Binary MLM WooCommerce translation in Indonesian
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-21 13:01:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Binary MLM WooCommerce\n"
+
+
+msgid "Before activating Binary MLM WooCommerce, Please activate WooCommerce plugin."
+msgstr "Sebelum mengaktifkan Binary MLM WooCommerce, Silahkan aktifkan plugin WooCommerce."
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+msgid "BMW Sponsor Could Not be Empty."
+msgstr "Sponsor BMW Tidak Bisa Kosong."
+
+
+msgid "BMW parent Could Not be Empty."
+msgstr "Orang tua BMW Tidak Bisa Kosong."
+
+msgid "BMW position Could Not be Empty."
+msgstr "Posisi BMW Tidak Bisa Kosong."
+
+msgid "Product Points(PV)"
+msgstr "Poin Produk (PV)"
+
+msgid "Enter Product Points"
+msgstr "Masukkan Poin Produk"
+
+msgid "BMW Commissions"
+msgstr "Komisi BMW"
+
+msgid "Enable for bmw Commissions"
+msgstr "Aktifkan untuk Komisi bmw"
+
+msgid "View Binary MLM WooCommerce Settings"
+msgstr "Lihat Pengaturan Binary MLM WooCommerce"
+
+msgid "Dashboard"
+msgstr "Dasbor"
+
+msgid "Personal Info"
+msgstr "Informasi pribadi"
+
+msgid "Bank Details"
+msgstr "Rincian bank"
+
+msgid "Genealogy"
+msgstr "Silsilah"
+
+msgid "Payout List"
+msgstr "Daftar Pembayaran"
+
+msgid "Withdrawal Amount"
+msgstr "Jumlah penarikan"
+
+msgid "Register"
+msgstr "Daftar"
+
+msgid "Join Network"
+msgstr "Bergabunglah dengan Jaringan"
+
+msgid "Invitation"
+msgstr "Undangan"
+
+msgid "Binary MLM WooCommerce"
+msgstr "Binary MLM WooCommerce"
+
+msgid "BMW PRO"
+msgstr "BMW PRO"
+
+msgid "Log in Please"
+msgstr "Silakan masuk"
+
+msgid "Join Us"
+msgstr "Bergabunglah dengan kami"
+
+msgid "Join Now"
+msgstr "Bergabung sekarang"
+
+msgid "Sponsor Name *"
+msgstr "Nama Sponsor *"
+
+msgid "Parent Name*"
+msgstr "Nama orang tua*"
+
+msgid "Enter Your Epin *"
+msgstr "Masukkan Epin Anda *"
+
+msgid "Password"
+msgstr "Kata sandi"
+
+msgid "Position"
+msgstr "Posisi"
+
+msgid "Left"
+msgstr "Kiri"
+
+msgid "Right"
+msgstr "Baik"
+
+msgid "Please Login"
+msgstr "Silahkan masuk"
+
+msgid "Login Form"
+msgstr "Formulir Login"
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgid "Log in"
+msgstr "Gabung"
+
+msgid "Create Account"
+msgstr "Buat Akun"
+
+msgid "Register With BMP"
+msgstr "Daftar Dengan BMP"
+
+msgid "Registeration Form"
+msgstr "Formulir Pendaftaran"
+
+msgid "User Name *"
+msgstr "Nama pengguna *"
+
+msgid "Your Email *"
+msgstr "Surel mu *"
+
+msgid "First Name *"
+msgstr "Nama depan *"
+
+msgid "Last Name *"
+msgstr "Nama keluarga *"
+
+msgid "Password *"
+msgstr "Kata sandi *"
+
+msgid "Confirm Password *"
+msgstr "Setujui password *"
+
+msgid "Your Phone *"
+msgstr "Telepon Anda *"
+
+msgid "Enter OTP"
+msgstr "Masukkan OTP"
+
+msgid "Resend"
+msgstr "Kirim ulang"
+
+msgid "Verify"
+msgstr "Memeriksa"
+
+msgid "Get OTP"
+msgstr "Dapatkan OTP"
+
+msgid "Submit"
+msgstr "Kirimkan"
+
+msgid "Already have Account?"
+msgstr "Sudah punya akun?"
+
+msgid "Login Now"
+msgstr "Masuk sekarang"
+
+msgid "Total Downliners"
+msgstr "Total Downliner"
+
+msgid "From last Week"
+msgstr "Dari Minggu lalu"
+
+msgid "Total Earnings"
+msgstr "Total Penghasilan"
+
+msgid "Total Withdrawals"
+msgstr "Total Penarikan"
+
+msgid "Total Bonus Earn"
+msgstr "Total Bonus Dapatkan"
+
+msgid "Total Left Users"
+msgstr "Total Pengguna Kiri"
+
+msgid "Total Right Users"
+msgstr "Total Pengguna Hak"
+
+msgid "Graphical Transaction Details"
+msgstr "Detail Transaksi Grafis"
+
+msgid "As per Month"
+msgstr "Sesuai Bulan"
+
+msgid "Top User"
+msgstr "Pengguna Teratas"
+
+msgid "Profiles"
+msgstr "Profil"
+
+msgid "Paid & Right"
+msgstr "Dibayar & Benar"
+
+msgid "Paid & Left"
+msgstr "Dibayar & Kiri"
+
+msgid "Un Paid"
+msgstr "Belum Dibayar"
+
+msgid "User Key :"
+msgstr "Kunci pengguna :"
+
+msgid "Position"
+msgstr "Posisi"
+
+msgid "Email"
+msgstr "Surel"
+
+msgid "Earnings"
+msgstr "Pendapatan"
+
+msgid "My Total Earnings"
+msgstr "Total Penghasilan Saya"
+
+msgid "Charges"
+msgstr "Biaya"
+
+msgid "Pair Commission"
+msgstr "Komisi Pasangan"
+
+msgid "Refferal Commission"
+msgstr "Komisi Referensi"
+
+msgid "Level Commission"
+msgstr "Komisi Level"
+
+msgid "Bonus Commission"
+msgstr "Komisi Bonus"
+
+msgid "Tax"
+msgstr "Pajak"
+
+msgid "Service Charge"
+msgstr "Biaya layanan"
+
+msgid "Recent Registerations"
+msgstr "Pendaftaran Terbaru"
+
+msgid "Personal Information"
+msgstr "Informasi pribadi"
+
+msgid "User Details"
+msgstr "Detail Pengguna"
+
+msgid "Your Email"
+msgstr "Surel mu"
+
+msgid "Your Mobile"
+msgstr "Ponsel Anda"
+
+msgid "Reg. Date"
+msgstr "Reg. Tanggal"
+
+msgid "BMP Details
+msgstr "Rincian BMP"
+
+msgid "User Key"
+msgstr "Kunci pengguna"
+
+msgid "Sponsor Key"
+msgstr "Kunci Sponsor"
+
+msgid "Parent Key"
+msgstr "Kunci Orang Tua"
+
+msgid "Payment Date"
+msgstr "Tanggal pembayaran"
+
+msgid "Account Holder Name"
+msgstr "nama pemilik akun"
+
+msgid "A/c Holder Name"
+msgstr "Nama Pemegang A / c"
+
+msgid "Account No"
+msgstr "Nomor rekening"
+
+msgid "Bank Name"
+msgstr "Nama Bank"
+
+msgid "Branch"
+msgstr "Cabang"
+
+msgid "Branch Name"
+msgstr "Nama cabang"
+
+msgid "IFSC Code"
+msgstr "Kode IFSC"
+
+msgid "Contact No."
+msgstr "Nomor kontak."
+
+msgid "Payouts List"
+msgstr "Daftar Pembayaran"
+
+msgid "Payout id"
+msgstr "ID pembayaran"
+
+msgid "Pair C."
+msgstr "Pasangan C."
+
+msgid "'Referral C."
+msgstr "'Referensi C."
+
+msgid "Level C."
+msgstr "Level C."
+
+msgid "To"
+msgstr "Untuk"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "Total Points"
+msgstr "Poin Total"
+
+msgid "Total Amount"
+msgstr "Jumlah total"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Pair Commissions"
+msgstr "Komisi Pasangan"
+
+msgid "Childs"
+msgstr "Anak-anak"
+
+msgid "Amount"
+msgstr "Jumlah"
+
+msgid "Total Commission"
+msgstr "Komisi Total"
+
+msgid "Referral Commissions"
+msgstr "Komisi Referensi"
+
+msgid "User Name"
+msgstr "Nama pengguna"
+
+msgid "Child Name"
+msgstr "Nama Anak"
+
+msgid "Level Commissions"
+msgstr "Komisi Level"
+
+msgid "Bonus Details"
+msgstr "Detail Bonus"
+
+msgid "Bonus Count"
+msgstr "Hitungan Bonus"
+
+msgid "Account Details"
+msgstr "Detail akun"
+
+msgid "Current Balance"
+msgstr "Saldo saat ini"
+
+msgid "Requested Balance"
+msgstr "Saldo yang Diminta"
+
+msgid "Pending Balance"
+msgstr "Saldo Tertunda"
+
+msgid "Withdraw Amount"
+msgstr "Jumlah Penarikan"
+
+msgid "Enter Amount"
+msgstr "Masukan jumlah"
+
+msgid "Enter Numeric Value"
+msgstr "Masukkan Nilai Numerik"
+
+msgid "Request Now"
+msgstr "Minta Sekarang"
+
+msgid "Withdrawal List"
+msgstr "Daftar Penarikan"
+
+msgid "#Id"
+msgstr "#Id"
+
+msgid "Status"
+msgstr "a"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Init Date"
+msgstr "Tanggal Init"
+
+msgid "Process Date"
+msgstr "Tanggal Proses"
+
+msgid "Initiated"
+msgstr "Dimulai"
+
+msgid "Processed"
+msgstr "Diproses"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Invite By e-Mail"
+msgstr "Undang Melalui e-Mail"
+
+msgid "You can invite any one just need to place the email and trigger invite button. Make sure email address is correct."
+msgstr "Anda dapat mengundang siapa saja hanya perlu menempatkan Surel dan memicu tombol undangan. Pastikan alamat Surel sudah benar."
+
+msgid "Please Enter e-Mail *"
+msgstr "Silahkan Masukkan e-Mail *"
+
+msgid "Invite"
+msgstr "Undang"
+
+msgid "Your Profile"
+msgstr "Profil kamu"
+
+msgid "Downlines"
+msgstr "Downline"
+
+msgid "Referrals"
+msgstr "Referensi"
+
+msgid "Withdrawal Details"
+msgstr "Detail Penarikan"
+
+msgid "Withdrawal fee"
+msgstr "Biaya penarikan"
+
+msgid "Request Date"
+msgstr "Tanggal Permintaan"
+
+msgid "Request amount is incorrect please check!!"
+msgstr "Jumlah permintaan salah, harap periksa !!"
+
+msgid "Please choose payment Mode!!"
+msgstr "Pilih mode pembayaran !!"
+
+msgid "Transaction Id can't be Blank!!"
+msgstr "Id Transaksi tidak boleh Kosong !!"
+
+msgid "A/c Holder"
+msgstr " Pemegang A / c"
+
+msgid "A/c Number"
+msgstr "Nomor A / c"
+
+msgid "Mob. Number"
+msgstr "Seluler Jumlah"
+
+msgid "Request Amount"
+msgstr "Jumlah Permintaan"
+
+msgid "Payment Mode"
+msgstr "Mode Pembayaran"
+
+msgid "Choose Mode"
+msgstr "Pilih Mode"
+
+msgid "Paypal"
+msgstr "Paypal"
+
+msgid "Bank Transfer"
+msgstr "Transfer Bank"
+
+msgid "Transaction id"
+msgstr "ID transaksi"
+
+msgid "Enter Transaction Id"
+msgstr "Masukkan Id Transaksi"
+
+msgid "Here you can only update the transaction Details %s(You need to do transaction manually)."
+msgstr "Disini anda hanya dapat mengupdate detail transaksi %s (Anda harus melakukan transaksi secara manual)."
+
+msgid "Payment already Updated!!"
+msgstr "Pembayaran sudah Diperbarui !!"
+
+msgid "Mail Settings"
+msgstr "Pengaturan Mail"
+
+msgid "Choose Configuration"
+msgstr "Pilih Konfigurasi"
+
+msgid "Registration Mail"
+msgstr "Surat Pendaftaran"
+
+msgid "Withdrawal Request Mail"
+msgstr "Surat Permintaan Penarikan"
+
+msgid "Withdrawal Pay Mail"
+msgstr "Penarikan Pay Mail"
+
+msgid "Payout Mail"
+msgstr "Surat Pembayaran"
+
+msgid "Mail to"
+msgstr "Kirim ke"
+
+msgid "Select Receiver"
+msgstr "Pilih Penerima"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "User"
+msgstr "Pengguna"
+
+msgid "Both(Admin & User)"
+msgstr "Keduanya (Admin & Pengguna)"
+
+msgid "Subject"
+msgstr "Subyek"
+
+msgid "Message"
+msgstr "Pesan"
+
+msgid "Click and use in Message"
+msgstr "Klik dan gunakan di Message"
+
+msgid "Site Name"
+msgstr "Nama situs"
+
+msgid "Site URL"
+msgstr "alamat URL"
+
+msgid "Site Lang"
+msgstr "Bahasa Situs"
+
+msgid "Admin Email"
+msgstr "Surel Admin"
+
+msgid "Admin Name"
+msgstr "Nama Admin"
+
+msgid "User Data"
+msgstr "Data pengguna"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "key"
+msgstr "kunci"
+
+msgid "Email"
+msgstr "Surel"
+
+msgid "User id"
+msgstr "Id pengguna"
+
+msgid "Level"
+msgstr "Tingkat"
+
+msgid "Join Date"
+msgstr "Tanggal Bergabung"
+
+msgid "Sponsor Data"
+msgstr "Data Sponsor"
+
+msgid "E-Mail"
+msgstr "Surel"
+
+msgid "Parent Data"
+msgstr "Data Induk"
+
+msgid "User Total Amounts"
+msgstr "Jumlah Total Pengguna"
+
+msgid "Withdrawal"
+msgstr "Penarikan"
+
+msgid "Referral"
+msgstr "Referral"
+
+msgid "Join"
+msgstr "Ikuti"
+
+msgid "Current"
+msgstr "Arus"
+
+msgid "Shopping"
+msgstr "Perbelanjaan"
+
+msgid "Orders"
+msgstr "Pesanan"
+
+msgid "Downliners"
+msgstr "Downliner"
+
+msgid "User Bank Details"
+msgstr "Rincian Bank Pengguna"
+
+msgid "IFSC"
+msgstr "IFSC"
+
+msgid "Mobile"
+msgstr "Seluler"
+
+msgid "Payout Details"
+msgstr "Detail Pembayaran"
+
+msgid "Payout Total"
+msgstr "Total Pembayaran"
+
+msgid "Payout Date"
+msgstr "Tanggal Pembayaran"
+
+msgid "Tables"
+msgstr "Tabel"
+
+msgid "Payout"
+msgstr "Pembayaran"
+
+msgid "W- Req."
+msgstr "W- Permintaan"
+
+msgid "W- Pay"
+msgstr "W- Bayar"
+
+msgid "SMS Settings"
+msgstr "Pengaturan SMS"
+
+msgid "Withdrawal Request sms"
+msgstr "SMS Permintaan Penarikan"
+
+msgid "Withdrawal Pay sms"
+msgstr "Penarikan Bayar sms"
+
+msgid "Payout sms"
+msgstr "SMS pembayaran"
+
+msgid "Registration sms"
+msgstr "SMS pendaftaran"
+
+msgid "sms to"
+msgstr "sms ke"
+
+msgid "Select Receiver"
+msgstr "Pilih Penerima"
+
+msgid "Admin sms"
+msgstr "Admin sms"
+
+msgid "sms"
+msgstr "sms"
+
+
+msgid "BY %s"
+msgstr "OLEH %s"
+
+msgid "Upgrade"
+msgstr "Meningkatkan"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Get it Now"
+msgstr "Dapatkan Sekarang"
+
+msgid "Purchase Licence"
+msgstr "Lisensi Pembelian"
+
+msgid "Please enter Email Address"
+msgstr "Silakan masukkan Alamat Surel"
+
+msgid "E-mail address is valid."
+msgstr "Alamat Surel valid."
+
+msgid "Register First User"
+msgstr "Daftarkan Pengguna Pertama"
+
+msgid "Your Bank has been updated successfully"
+msgstr "Bank Anda telah berhasil diperbarui"
+
+msgid "Something going wrong please Check"
+msgstr "Ada yang salah, harap Periksa"
+
+msgid "less than 1 second ago"
+msgstr "kurang dari 1 detik yang lalu"
+
+msgid "year"
+msgstr "tahun"
+
+msgid "month"
+msgstr "bulan"
+
+msgid "day"
+msgstr "hari"
+
+msgid "hour"
+msgstr "jam"
+
+msgid "minute"
+msgstr "menit"
+
+msgid "second"
+msgstr "kedua"
+
+msgid "about"
+msgstr "tentang"
+
+msgid "s"
+msgstr "s"
+
+msgid "ago"
+msgstr "lalu"
+
+msgid "Username could not be empty!!!"
+msgstr "Nama pengguna tidak boleh kosong !!!"
+
+msgid "Username not exist, please register your account!!!"
+msgstr "Nama pengguna tidak ada, harap daftarkan akun Anda !!!"
+
+msgid "Password could not be empty!!!"
+msgstr "Kata sandi tidak boleh kosong !!"
+
+msgid "Please Provide Valid Credentials!!!"
+msgstr "Harap Berikan Kredensial yang Valid !!!"
+
+msgid "Acount Details"
+msgstr "Rincian Akun"
+
+msgid "MyCred Wallet"
+msgstr "Dompet MyCred"
+
+msgid "Registration"
+msgstr "Registrasi"
+
+msgid "Send Invitation"
+msgstr "Kirim undangan"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "First Name could Not be empty"
+msgstr "Nama Depan Tidak boleh kosong"
+
+msgid "Last Name could Not be empty"
+msgstr "Nama Belakang Tidak boleh kosong"
+
+msgid "Userame could Not be empty"
+msgstr "Nama pengguna tidak boleh kosong"
+
+msgid "Sorry Password does not match."
+msgstr "Maaf Kata Sandi tidak cocok."
+
+msgid "Email could Not be empty"
+msgstr "Surel Tidak boleh kosong"
+
+msgid "E-mail address is invalid."
+msgstr "Alamat Surel tidak valid."
+
+msgid "E-mail address is already in use."
+msgstr "Alamat Surel telah digunakan."
+
+msgid "Sponsor could Not be empty"
+msgstr "Sponsor tidak boleh kosong"
+
+msgid "Parent could Not be empty"
+msgstr "Induk tidak boleh kosong"
+
+msgid "Phone could Not be empty"
+msgstr "Telepon tidak boleh kosong"
+
+msgid "Phone number is not verified"
+msgstr "Nomor telepon tidak diverifikasi"
+
+msgid "Position could Not be empty"
+msgstr "Posisi tidak boleh kosong"
+
+msgid "Something going wrong please check!!!"
+msgstr "Ada yang tidak beres, harap periksa !!!"
+
+msgid "Binary User has been created successfully."
+msgstr "Pengguna Biner telah berhasil dibuat."
+
+msgid "Incorrect Password, Please check.."
+msgstr " Kata Sandi Salah, Harap periksa .."
+
+msgid "User Already Exist. Please try another user"
+msgstr "Pengguna sudah ada. Silakan coba pengguna lain"
+
+msgid "User Name could not be empty."
+msgstr "Nama Pengguna tidak boleh kosong."
+
+msgid "Congratulation!This username is avaiable."
+msgstr "Selamat! Nama pengguna ini tersedia."
+
+msgid "Email Already Used by someone. Please try another Email"
+msgstr "Surel Sudah Digunakan oleh seseorang. Silakan coba Surel lain"
+
+msgid "Email is invalid."
+msgstr "Surel tidak valid."
+
+msgid "Email could not be empty."
+msgstr "Surel tidak boleh kosong."
+
+msgid "Congratulation!This Email is avaiable."
+msgstr "Selamat! Surel ini tersedia."
+
+msgid "Congratulation!This Sponsor is avaiable."
+msgstr "Selamat! Sponsor ini tersedia"
+
+msgid "Sponsor Not Valid. Please try another Sponsor"
+msgstr "Sponsor Tidak Valid. Silakan coba Sponsor lain"
+
+msgid "Please choose Fill Sponsor Name"
+msgstr "Silakan pilih Isi Nama Sponsor"
+
+msgid "Parent Not Valid. Please check"
+msgstr "Induk Tidak Valid. Silakan periksa"
+
+msgid "Parent Not Valid. because both position is full"
+msgstr "Induk Tidak Valid. karena posisi keduanya sudah penuh"
+
+msgid "Congratulation! This parent is avaiable."
+msgstr "Selamat! Induk ini tersedia."
+
+msgid "Password is valid."
+msgstr "Kata sandi valid."
+
+msgid "Congratulation! Password is valid."
+msgstr "Selamat! Kata sandi valid."
+
+msgid "Transaction ID Could not be empty"
+msgstr "ID Transaksi Tidak boleh kosong"
+
+msgid "Please Enter Withdrawal Amount"
+msgstr "Silakan Masukkan Jumlah Penarikan"
+
+msgid "Please Update Your Bank details, then withdraw"
+msgstr "Harap Perbarui detail Bank Anda, lalu tarik"
+
+msgid "your request is submitted successfully"
+msgstr "permintaan Anda berhasil dikirim"
+
+msgid "Sorry you entered wrong Amount please check"
+msgstr "Maaf Anda salah memasukkan Jumlah, harap periksa"
+
+msgid "Payment successfully updated!!!"
+msgstr "Pembayaran berhasil diperbarui !!!"
+
+msgid "An error occured in payment update!!!"
+msgstr "Terjadi kesalahan dalam pembaruan pembayaran !!!"
+
+msgid "OTP sent successfully"
+msgstr "OTP berhasil dikirim"
+
+msgid "Something going wrong! please check"
+msgstr "Ada yang salah! silahkan cek"
+
+msgid "Number Verified"
+msgstr "Nomor Terverifikasi"
+
+msgid "Incorrect OTP, Please make valid request"
+msgstr "OTP salah, Harap buat permintaan yang valid"
+
+msgid "Value"
+msgstr "Nilai"
+
+msgid "Remaining Balance"
+msgstr "Saldo yang tersisa"
+
+msgid "Initiated Date"
+msgstr "Tanggal Dimulai"
+
+msgid "Processed Date"
+msgstr "Tanggal Diproses"
+
+msgid "Transaction Id"
+msgstr "ID transaksi"
+
+msgid "Bonus Amount"
+msgstr "Jumlah Bonus"
+
+msgid "Referral Commission"
+msgstr "Komisi Referensi"
+
+msgid "Could Not be Empty"
+msgstr "Tidak Bisa Kosong"
+
+msgid "Subject can't be blank"
+msgstr "Subjek tidak boleh kosong"
+
+msgid "Message Body can't be blank"
+msgstr "Badan Pesan tidak boleh kosong"
+
+msgid "Email has been successfully Sent to "
+msgstr "Surel telah berhasil Dikirim ke"
+
+msgid "Withrawal Requested"
+msgstr "Penarikan Diminta"
+
+msgid "Payment Processed"
+msgstr "Pembayaran Diproses"
+
+msgid "Unilevel Woocommerce"
+msgstr "Unilevel Woocommerce"
+
+msgid "Payout Processed"
+msgstr "Pembayaran Diproses"
+
+msgid "Registration Success"
+msgstr "Registrasi berhasil"
+
+msgid "Affiliate Link"
+msgstr "Tautan Afiliasi"
+
+msgid "Your invitation send successfully."
+msgstr "Undangan Anda berhasil dikirim."
+
+msgid "Something went wrong please check..."
+msgstr "Ada yang tidak beres, harap periksa ..."
+
+msgid "Please Set Points Value"
+msgstr "Harap Tetapkan Nilai Poin"
+
+msgid "Payout id %d credits"
+msgstr "Pembayaran id% d kredit"
+
+msgid "Withdrawal %d Debit"
+msgstr "Penarikan% d Debit"
+
+msgid "Withdrawal id %d credits"
+msgstr "Penarikan kredit id %d"
+
+msgid "succesfully update"
+msgstr "berhasil memperbarui"
+
+msgid "Back"
+msgstr "Kembali"
+
+msgid "position"
+msgstr "posisi"
+
+msgid "RESULTS"
+msgstr "HASIL"
+
+msgid "Current Balance : %s
+msgstr "Saldo Saat Ini: %s"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "By Username, Sponsor, userkey, position"
+msgstr "Berdasarkan Nama Pengguna, Sponsor, kunci pengguna, posisi"
+
+msgid "Type Subject..."
+msgstr "Ketik Subjek ..."
+
+msgid "Type Message Body"
+msgstr "Ketik Badan Pesan"
+
+msgid "Send"
+msgstr "Kirim"
+
+msgid "User Reports"
+msgstr "Laporan Pengguna"
+
+msgid "payout Reports"
+msgstr "Laporan pembayaran"
+
+msgid "Withdrawal Records"
+msgstr "Catatan Penarikan"
+
+msgid "Message Center"
+msgstr "Pusat pesan"
+
+msgid "SMS Settings"
+msgstr "Pengaturan SMS"
+
+msgid "Reset Data"
+msgstr "Setel Ulang Data"
+
+msgid "Payout Id"
+msgstr "Id Pembayaran"
+
+msgid "Payout Date"
+msgstr "Tanggal Pembayaran"
+
+msgid "Export to CSV"
+msgstr "Ekspor ke CSV"
+
+msgid "id"
+msgstr "Id"
+
+msgid "Bonus C."
+msgstr "Bonus C."
+
+msgid "Total C."
+msgstr ""Total C.
+
+msgid "Action"
+msgstr "Tindakan"
+
+msgid "Reset BMP PLan"
+msgstr "Setel ulang BMP PLan"
+
+msgid "Reset Data"
+msgstr " Setel Ulang Data"
+
+msgid "ID"
+msgstr "Id"
+
+msgid "User Id"
+msgstr "Id pengguna"
+
+msgid "Creation Date"
+msgstr "Tanggal Pembuatan"
+
+msgid "Payment Status"
+msgstr "Status pembayaran"
+
+msgid "Product Price"
+msgstr "Harga Produk"
+
+msgid "Paid"
+msgstr "Dibayar"
+
+msgid "Withdrawal Initiated Date"
+msgstr "Tanggal Mulai Penarikan"
+
+msgid "Withdrawal Processed Date"
+msgstr "Tanggal Proses Penarikan"
+
+msgid "amount"
+msgstr "jumlah"
+
+msgid "Withdrawal Fee"
+msgstr "Biaya Penarikan"
+
+msgid "Withdrawal Mode"
+msgstr "Mode Penarikan"
+
+msgid "Account Holder"
+msgstr "Pemilik akun"
+
+msgid "Account Number"
+msgstr "Nomor rekening"
+
+msgid "Withdrawal Reports"
+msgstr "Laporan Penarikan"
+
+msgid "Initeated Date"
+msgstr "Tanggal Initeated"
+
+msgid "Withdraw Fee"
+msgstr "Biaya Penarikan"
+
+msgid "General"
+msgstr "Umum"
+
+msgid "Elegibility"
+msgstr "Keanggunan"
+
+msgid "Bonuses"
+msgstr "Bonus"
+
+msgid "Levels"
+msgstr "Level"
+
+msgid "Licence"
+msgstr "Lisensi"
+
+msgid "PLease Correct this Slab"
+msgstr "Harap Koreksi Slab ini"
+
+msgid "Bonus Settings"
+msgstr "Pengaturan Bonus"
+
+msgid "Bonus Criteria"
+msgstr "Kriteria Bonus"
+
+msgid "Select Bonus Criteria"
+msgstr "Pilih Kriteria Bonus"
+
+msgid "No. of Pairs"
+msgstr "Jumlah Pasangan"
+
+msgid "No. of Personal Referrals"
+msgstr "Jumlah Referensi Pribadi"
+
+msgid "Bonus Slab"
+msgstr "Slab Bonus"
+
+msgid "Remove"
+msgstr "Menghapus"
+
+msgid "Add"
+msgstr "Menambahkan"
+
+msgid "Can't Empty"
+msgstr "Tidak Bisa Kosong"
+
+msgid "Eligibility Settings"
+msgstr "Pengaturan Kelayakan"
+
+msgid "Minimum Personal Points"
+msgstr "Poin Pribadi Minimum"
+
+msgid "Personal Points is the Qualification Points which is provide the  eligibility for commissions"
+msgstr "Poin Pribadi adalah Poin Kualifikasi yang memberikan kelayakan untuk mendapatkan komisi"
+
+msgid "Direct Referrals"
+msgstr "Referal Langsung"
+
+msgid "If  Direct Referrals 1 then  place 1 in Left and Right Referrals %s"
+msgstr "Jika Direct Referrals 1 maka tempatkan 1 di Left dan Right Referrals %s"
+
+msgid "Left Leg Referral(s)"
+msgstr " Referral Kaki Kiri"
+
+msgid "Referral Left"
+msgstr "Referral Kiri"
+
+msgid "Right Leg Referral(s)"
+msgstr "Referensi Kaki Kanan"
+
+msgid "Referral Right"
+msgstr "Hak Referensi"
+
+msgid "Save Eligibility Settings"
+msgstr "Simpan Pengaturan Kelayakan"
+
+msgid "Username could not be empty."
+msgstr "Nama pengguna tidak boleh kosong."
+
+msgid "Username already exists."
+msgstr "Nama pengguna sudah ada."
+
+msgid "Please enter your password."
+msgstr "Silakan masukkan kata sandi Anda."
+
+msgid "Please confirm your password."
+msgstr "Mohon konfirmasi kata sandi Anda."
+
+msgid "Please Correct the following Error(s):"
+msgstr "Harap perbaiki kesalahan berikut(s):"
+
+msgid "Enter User Name"
+msgstr "Masukkan nama pengguna"
+
+msgid "Enter Password"
+msgstr "Masukkan kata kunci"
+
+msgid "Enter Confirm Password"
+msgstr "Masukkan Konfirmasi Kata Sandi"
+
+msgid "Email Id"
+msgstr "Id Surel"
+
+msgid "Enter Email Address"
+msgstr "Masukkan alamat Surel"
+
+msgid "Enter First Name"
+msgstr "Masukkan Nama Depan"
+
+msgid "Last Name"
+msgstr "Nama keluarga"
+
+msgid "First Name"
+msgstr "Nama depan"
+
+msgid "Enter Last Name"
+msgstr "Masukkan Nama Belakang"
+
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+msgid "Cron Job Url:"
+msgstr "Url Pekerjaan Cron:"
+
+msgid "Currency"
+msgstr "Mata uang"
+
+msgid "Please Choose Currency"
+msgstr "Silakan Pilih Mata Uang"
+
+msgid "Plan Based On"
+msgstr "Rencana Berdasarkan"
+
+msgid "Select Plan Base"
+msgstr "Pilih Plan Base"
+
+msgid "Points"
+msgstr "Poin"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Affiliate user Redirect Page"
+msgstr "Halaman Pengalihan Pengguna Afiliasi"
+
+msgid "Select Redirect Page"
+msgstr "Pilih Redirect Page"
+
+msgid "Redirect After Registeration"
+msgstr "Alihkan Setelah Pendaftaran"
+
+msgid "Order Status for Distribution"
+msgstr "Status Pesanan untuk Distribusi"
+
+msgid "Select Order Status"
+msgstr "Pilih Status Pesanan"
+
+msgid "OTP Verification"
+msgstr "Verifikasi OTP"
+
+msgid "Notice:"
+msgstr "Memperhatikan:"
+
+msgid "Please confirm SMS setings for this feature"
+msgstr "Harap konfirmasi pengaturan SMS untuk fitur ini"
+
+msgid "If you checked auto fill and register more then one member then can not be change Auto Fill."
+msgstr "Jika Anda mencentang pengisian otomatis dan mendaftar lebih dari satu anggota maka tidak dapat mengubah Isi Otomatis."
+
+msgid "Withdrawal Limit"
+msgstr "Batas Penarikan"
+
+msgid "Min Amount"
+msgstr "Jumlah Min"
+
+msgid "Max Amount"
+msgstr "Jumlah Maks"
+
+msgid "Save General Settings"
+msgstr "Simpan Pengaturan Umum"
+
+msgid "Please correct red rows first"
+msgstr "Harap perbaiki baris merah terlebih dahulu"
+
+msgid "You have successfully updated your Commissions settings."
+msgstr "Anda telah berhasil memperbarui pengaturan Komisi Anda."
+
+msgid "Level Name"
+msgstr "Nama Level"
+
+msgid "Commission Amount"
+msgstr "Jumlah Komisi"
+
+msgid "Commission Type"
+msgstr "Jenis Komisi"
+
+msgid "Specify the level %s"
+msgstr "Tentukan level %s"
+
+msgid "Type"
+msgstr "Tipe"
+
+msgid "Fixed"
+msgstr "Tetap"
+
+msgid "Percent"
+msgstr "Persen"
+
+msgid "Save Level Commission"
+msgstr "Simpan Komisi Level"
+
+msgid "Levels Settings"
+msgstr "Pengaturan Level"
+
+msgid "Disable/Enable"
+msgstr "Menonaktifkan/Mengaktifkan"
+
+msgid "No Of levels"
+msgstr "Jumlah level"
+
+msgid "No of levels"
+msgstr "Jumlah level"
+
+msgid "Save Levels Settings"
+msgstr "Simpan Pengaturan Level"
+
+msgid "Your Licence is valid, Now you can enjoy our plugin.
+              Your licence Expiry Date is"
+msgstr "Lisensi Anda valid, Sekarang Anda dapat menikmati plugin kami.
+              Tanggal Kedaluwarsa lisensi Anda adalah"
+
+msgid "Your licence expiry date is "
+msgstr "Tanggal kedaluwarsa lisensi Anda adalah"
+
+msgid "Your Licence Key"
+msgstr "Kunci Lisensi Anda"
+
+msgid "Enter Key"
+msgstr "Masukkan kunci"
+
+msgid "Enter your Licence Key , if you have not any key! so please purchase the licence key."
+msgstr "Masukkan Kunci Lisensi Anda, jika Anda tidak memiliki kunci apa pun! jadi silakan beli kunci lisensi."
+
+msgid "Update Licence Key"
+msgstr "Perbarui Kunci Lisensi"
+
+msgid "MyCred"
+msgstr "MyCred"
+
+msgid "MyCred Settings"
+msgstr "Pengaturan MyCred"
+
+msgid "Show myCred Menu"
+msgstr "Tampilkan Menu MyCred"
+
+msgid "Save MyCred Settings"
+msgstr "Simpan Pengaturan MyCred"
+
+msgid "Payout Settings"
+msgstr "Pengaturan Pembayaran"
+
+msgid "No. Points"
+msgstr "Jumlah Poin"
+
+msgid "Pair"
+msgstr "Pasangan"
+
+msgid "Pair1"
+msgstr "Pasangan1"
+
+msgid "Further Pair"
+msgstr "Pair selanjutnya"
+
+msgid "Initial Pairs"
+msgstr "Pasangan Awal"
+
+msgid "Initial Pair"
+msgstr "Pasangan Awal"
+
+msgid "Initial Pair Amount"
+msgstr "Jumlah Pasangan Awal"
+
+msgid "Initial Pair Commission Amount"
+msgstr "Jumlah Komisi Pasangan Awal"
+
+msgid "Further Pair Amount"
+msgstr "Jumlah Pasangan Lebih Lanjut"
+
+msgid "Direct Referral Commission"
+msgstr "Komisi Referensi Langsung"
+
+msgid "Referral Commission Amount"
+msgstr "Jumlah Komisi Referensi"
+
+msgid "ervice Charge (If any)"
+msgstr "biaya layanan (Jika ada)"
+
+msgid "Service Charge Amount"
+msgstr "Jumlah Biaya Layanan"
+
+msgid "Tax Deduction"
+msgstr "Pemotongan Pajak"
+
+msgid "Tds"
+msgstr "Tds"
+
+msgid "Save Payout Settings"
+msgstr "Simpan Pengaturan Pembayaran"
+
+msgid "TeraWallet"
+msgstr "TeraWallet"
+
+msgid "Woo Wallet Settings"
+msgstr "Pengaturan Dompet Woo"
+
+msgid "Show Woo Wallet Menu"
+msgstr "Tampilkan Menu Woo Wallet"
+
+msgid "Save Woo Wallet Settings"
+msgstr "Simpan Pengaturan Woo Wallet"
+
+msgid "Text Local credentials has issue please check..."
+msgstr "Kredensial Text Loca bermasalah, harap periksa ..."
+
+msgid "Twilio credentials has issue please check..."
+msgstr "Kredensial Twilio bermasalah, harap periksa ..."
+
+msgid "Plivo credentials has issue please check..."
+msgstr "Kredensial Plivo bermasalah, harap periksa ..."
+
+msgid "SMS Settings has been saved successfully"
+msgstr "Pengaturan SMS telah berhasil disimpan"
+
+msgid "Text Local SMS Gateway"
+msgstr "Text Local SMS Gateway"
+
+msgid "Text Local User Email"
+msgstr "Surel Pengguna Text Local"
+
+msgid "User Email"
+msgstr "Surel Pengguna"
+
+msgid "Text Local Api Key"
+msgstr "Kunci Api Text Local"
+
+msgid "Api Key"
+msgstr "Kunci Api"
+
+msgid "Twilio SMS Gateway"
+msgstr "Twilio SMS Gateway"
+
+msgid "Twilio Phone Number"
+msgstr "Nomor Telepon Twilio"
+
+msgid "Twilio Phone Number ex +19876543210 "
+msgstr "Nomor Telepon Twilio ex +19876543210"
+
+msgid "Twilio ACCOUNT SID"
+msgstr "SID AKUN Twilio"
+
+msgid "Twilio ACCOUNT SID"
+msgstr "SID AKUN Twilio"
+
+msgid "Twilio AUTH TOKEN"
+msgstr "Twilio AUTH TOKEN"
+
+msgid "Plivo SMS Gateway
+msgstr "Plivo SMS Gateway"
+
+msgid "Plivo Phone Number"
+msgstr "Nomor Telepon Plivo"
+
+msgid "Plivo Phone Number ex +19876543210"
+msgstr "Nomor Telepon Plivo ex +19876543210"
+
+msgid "Plivo Auth ID"
+msgstr "ID Autentikasi Plivo"
+
+msgid "Plivo ACCOUNT SID"
+msgstr "SID AKUN Plivo"
+
+msgid "Plivo Auth Token"
+msgstr "Token Autentikasi Plivo"
+
+msgid "Please Setup SMS Gateway before settings"
+msgstr "Harap Atur SMS Gateway sebelum pengaturan"
+
+msgid "Commissions & Bonuses"
+msgstr "Komisi & Bonus"
+
+msgid "Total Amt."
+msgstr "Jumlah total"
+
+msgid "Childs Name"
+msgstr "Nama anak"
+
+msgid "Amount"
+msgstr "Jumlah"
+
+msgid "Run Payouts"
+msgstr "Jalankan Pembayaran"
+
+msgid "Regular Bonus"
+msgstr "Bonus Reguler"
+
+msgid "TDS"
+msgstr "TDS"
+
+msgid "Net Amount"
+msgstr "Jumlah bersih"
+
+msgid "Run Payout"
+msgstr "Jalankan Pembayaran"
+
+msgid "level commission"
+msgstr "komisi tingkat"
+
+msgid "Level Commission"
+msgstr "komisi tingkat"
+
+msgid "No data available in table"
+msgstr "Tidak ada data di dalam tabel"
+
+msgid "Geneology"
+msgstr "Geneologi"
+
+msgid "Payout Reports"
+msgstr "Laporan Pembayaran"
+
+msgid "Configuration"
+msgstr "Konfigurasi"
+
+msgid "Distribute Commission"
+msgstr "Bagikan Komisi"
+
+msgid "Payout Run"
+msgstr "Pembayaran Jalankan"
+
+msgid "Addons"
+msgstr "Addons"
+
+msgid "Users Reports"
+msgstr "Laporan Pengguna"
+
+msgid "TeraWallet allows customers to store their money in a digital wallet. The customers can use the wallet money for purchasing products from the store. The customers can add money to their wallet using various payment methods set by the admin. The admin can set cashback rules according to cart price or product. The customers will receive their cashback amount in their wallet account. The admin can process refund to customer wallet."
+msgstr "TeraWallet memungkinkan pelanggan untuk menyimpan uang mereka di dompet digital. Pelanggan dapat menggunakan uang dompet untuk membeli produk dari toko. Pelanggan dapat menambahkan uang ke dompet mereka menggunakan berbagai metode pembayaran yang ditetapkan oleh admin. Admin bisa mengatur aturan cashback sesuai dengan harga keranjang atau produk. Pelanggan akan menerima jumlah uang kembali di akun dompet mereka. Admin dapat memproses pengembalian dana ke dompet pelanggan."
+
+msgid "myCred is an intelligent and adaptive points management system that allows you to build and manage a broad range of digital rewards including points, ranks and, badges on your WordPress/WooCommerce powered website"
+msgstr "myCred adalah sistem manajemen poin yang cerdas dan adaptif yang memungkinkan Anda membangun dan mengelola berbagai penghargaan digital termasuk poin, peringkat, dan lencana di situs web yang didukung WordPress / WooCommerce"
+
+msgid "Jan"
+msgstr "Januari"
+
+msgid "Feb"
+msgstr "Februari"
+
+msgid "Mar"
+msgstr "Maret"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "Mungkin"
+
+msgid "Jun"
+msgstr "Juni"
+
+msgid "Jul"
+msgstr "Juli"
+
+msgid "Aug"
+msgstr "Agustus"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "Oktober"
+
+msgid "Nov"
+msgstr "November"
+
+msgid "Dec"
+msgstr "Desember"
+
+msgid "Graphical Transaction Details As per Month"
+msgstr "Detail Transaksi Grafis Per Bulan"
+
+msgid "Under"
+msgstr "Dibawah"
+
+msgid "UnPaid"
+msgstr "Belum dibayar"
+
+msgid "Points Value"
+msgstr "Nilai Poin"
+
+msgid "Percentage"
+msgstr "Persentase"
+
+msgid "Tds"
+msgstr "Tds"
+
+msgid "Service Charge (If any)"
+msgstr "Service Charge (Jika ada)"
+
+msgid "Mail center"
+msgstr "Pusat surat"
+
+msgid "Key"
+msgstr "Kunci"
+
+msgid "Specify the level %s Name"
+msgstr "Tentukan tingkat %s Nama"
+
+msgid "Auto Fill"
+msgstr "Isi Otomatis"
+
+msgid "Personal Points is the Qualification Points which is provide the eligibility for commissions"
+msgstr "Poin Pribadi adalah Poin Kualifikasi yang memberikan kelayakan untuk mendapatkan komisi"
+msgid ""
+
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

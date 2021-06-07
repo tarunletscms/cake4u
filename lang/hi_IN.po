@@ -1,0 +1,1573 @@
+# Translation of Plugins - Binary MLM WooCommerce translation in HINDI
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-21 13:01:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hi\n"
+"Project-Id-Version: Plugins - Binary MLM WooCommerce\n"
+
+
+msgid "Before activating Binary MLM WooCommerce, Please activate WooCommerce plugin."
+msgstr "Binary MLM WooCommerce को सक्रिय करने से पहले, कृपया WooCommerce प्लगइन को सक्रिय करें।"
+
+msgid "Settings"
+msgstr "समायोजन"
+
+msgid "Documentation"
+msgstr "प्रलेखन"
+
+msgid "BMW Sponsor Could Not be Empty."
+msgstr "BMW स्पोंसर खाली नहीं किया जा सकता है।"
+
+
+msgid "BMW parent Could Not be Empty."
+msgstr "BMW अभिभावक खाली नहीं हो सकते।"
+
+msgid "BMW position Could Not be Empty."
+msgstr "BMW की स्थिति खाली नहीं हो सकती।"
+
+msgid "Product Points(PV)"
+msgstr "उत्पाद अंक (PV)"
+
+msgid "Enter Product Points"
+msgstr "उत्पाद अंक दर्ज करें"
+
+msgid "BMW Commissions"
+msgstr "BMW कमीशन"
+
+msgid "Enable for bmw Commissions"
+msgstr "BMW कमीशनों के लिए सक्षम करें"
+
+msgid "View Binary MLM WooCommerce Settings"
+msgstr "Binary MLM WooCommerce सेटिंग्स देखें"
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+msgid "Personal Info"
+msgstr "व्यक्तिगत जानकारी"
+
+msgid "Bank Details"
+msgstr "बैंक विवरण"
+
+msgid "Genealogy"
+msgstr "वंशावली"
+
+msgid "Payout List"
+msgstr "भुगतान सूची"
+
+msgid "Withdrawal Amount"
+msgstr "निकाली गयी राशि"
+
+msgid "Register"
+msgstr "रजिस्टर करें"
+
+msgid "Join Network"
+msgstr "नेटवर्क से जुड़ें"
+
+msgid "Invitation"
+msgstr "निमंत्रण"
+
+msgid "Binary MLM WooCommerce"
+msgstr "Binary MLM WooCommerce"
+
+msgid "BMW PRO"
+msWithdrawalgstr "BMW PRO"
+
+msgid "Log in Please"
+msgstr "कृपया लॉग इन करें"
+
+msgid "Join Us"
+msgstr "हमसे जुड़ें"
+
+msgid "Join Now"
+msgstr "अब सम्मिलित हों"
+
+msgid "Sponsor Name *"
+msgstr "प्रायोजक का नाम *"
+
+msgid "Parent Name*"
+msgstr "अपलाइन नाम *"
+
+msgid "Enter Your Epin *"
+msgstr "अपना Epin दर्ज करें *"
+
+msgid "Password"
+msgstr "कुंजिका"
+
+msgid "Position"
+msgstr "पद"
+
+msgid "Left"
+msgstr "बाएं"
+
+msgid "Right"
+msgstr "दाएं"
+
+msgid "Please Login"
+msgstr "कृपया लॉगिन करें"
+
+msgid "Login Form"
+msgstr "लॉगइन फॉर्म"
+
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+msgid "Log in"
+msgstr "लॉग इन करें"
+
+msgid "Create Account"
+msgstr "खाता बनाएं"
+
+msgid "Register With BMP"
+msgstr "BMP के साथ रजिस्टर करें"
+
+msgid "Registeration Form"
+msgstr "पंजीकरण फॉर्म"
+
+msgid "User Name *"
+msgstr "उपयोगकर्ता नाम *"
+
+msgid "Your Email *"
+msgstr "तुम्हारा ईमेल *"
+
+msgid "First Name *"
+msgstr "पहला नाम *"
+msgid "Last Name *"
+msgstr "उपनाम *"
+
+msgid "Password *"
+msgstr "कुंजिका *"
+
+msgid "Confirm Password *"
+msgstr "पासवर्ड की पुष्टि कीजिये *"
+
+msgid "Your Phone *"
+msgstr "आपका फोन *"
+
+msgid "Enter OTP"
+msgstr "OTP दर्ज करें"
+
+msgid "Resend"
+msgstr "पुन: भेजें"
+
+msgid "Verify"
+msgstr "सत्यापित करें"
+
+msgid "Get OTP"
+msgstr "OTP प्राप्त करें"
+
+msgid "Submit"
+msgstr "प्रस्तुत"
+
+msgid "Already have Account?"
+msgstr "पहले से ही खाता है?"
+
+msgid "Login Now"
+msgstr "अब प्रवेश करें"
+
+msgid "Total Downliners"
+msgstr "कुल डाउनलर"
+
+msgid "From last Week"
+msgstr "पिछले सप्ताह से"
+
+msgid "Total Earnings"
+msgstr "कुल आय"
+
+msgid "Total Withdrawals"
+msgstr "कुल निकासी"
+
+msgid "Total Bonus Earn"
+msgstr "कुल बोनस कमाएँ"
+
+msgid "Total Left Users"
+msgstr "कुल वाम उपयोगकर्ता"
+
+msgid "Total Right Users"
+msgstr "कुल दाएं उपयोगकर्ता"
+
+msgid "Graphical Transaction Details"
+msgstr "चित्रमय लेन-देन विवरण"
+
+msgid "As per Month"
+msgstr "प्रति माह के अनुसार"
+
+msgid "Top User"
+msgstr "शीर्ष उपयोगकर्ता"
+
+msgid "Profiles"
+msgstr "प्रोफाइल"
+
+msgid "Paid & Right"
+msgstr "अदा और दाएं"
+
+msgid "Paid & Left"
+msgstr "अदा और बायाँ"
+
+msgid "Un Paid"
+msgstr "अवैतनिक"
+
+msgid "User Key"
+msgstr "उपयोगकर्ता कुंजी"
+
+msgid "Position"
+msgstr "पद"
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "Earnings"
+msgstr "कमाई"
+
+msgid "My Total Earnings"
+msgstr "मेरी कुल कमाई"
+
+msgid "Charges"
+msgstr "प्रभार"
+
+msgid "Pair Commission"
+msgstr "जोड़ी कमीशन"
+
+msgid "Refferal Commission"
+msgstr "रेफरल कमीशन"
+
+msgid "Level Commission"
+msgstr "Level Commission"
+
+msgid "Bonus Commission"
+msgstr "बोनस कमीशन"
+
+msgid "Tax"
+msgstr "कर"
+
+msgid "Service Charge"
+msgstr "सेवा शुल्क"
+
+msgid "Recent Registerations"
+msgstr "हाल ही के पंजीकरण"
+
+msgid "Personal Information"
+msgstr "व्यक्तिगत जानकारी"
+
+msgid "User Details"
+msgstr "उपयोगकर्ता की जानकारी"
+
+msgid "Your Email"
+msgstr "तुम्हारा ईमेल"
+
+msgid "Your Mobile"
+msgstr "आपका मोबाइल"
+
+msgid "Reg. Date"
+msgstr "रेग। दिनांक"
+
+msgid "BMP Details
+msgstr "BMP विवरण"
+
+msgid "Sponsor Key"
+msgstr "प्रायोजक कुंजी"
+
+msgid "Parent Key"
+msgstr "अपलाइन कुंजी"
+
+msgid "Payment Date"
+msgstr "भुगतान तिथि"
+
+msgid "Account Holder Name"
+msgstr "खाताधारक का नाम"
+
+msgid "A/c Holder Name"
+msgstr "खाताधारक का नाम"
+
+msgid "Account No"
+msgstr "खाता क्रमांक"
+
+msgid "Bank Name"
+msgstr "बैंक का नाम"
+
+msgid "Branch"
+msgstr "शाखा"
+
+msgid "Branch Name"
+msgstr "शाखा का नाम"
+
+msgid "IFSC Code"
+msgstr "IFSC कोड"
+
+msgid "Contact No."
+msgstr "संपर्क नंबर।"
+
+msgid "Payouts List"
+msgstr "भुगतान सूची"
+
+msgid "Payout id"
+msgstr "पेआउट आई.डी."
+
+msgid "Pair C."
+msgstr "जोड़ी कमीशन।"
+
+msgid "Referral C."
+msgstr "रेफरल कमीशन।"
+
+msgid "Level C."
+msgstr "स्तर कमीशन।"
+
+msgid "To"
+msgstr "सेवा"
+
+msgid "Bonus"
+msgstr "बोनस"
+
+msgid "Total Points"
+msgstr "कुल अंक"
+
+msgid "Total Amount"
+msgstr "कुल रकम"
+
+msgid "Date"
+msgstr "दिनांक"
+
+msgid "Pair Commissions"
+msgstr "जोड़ी कमीशन"
+
+msgid "Childs"
+msgstr "चाइल्ड्स"
+
+msgid "Amount"
+msgstr "रकम"
+
+msgid "Total Commission"
+msgstr "कुल कमीशन"
+
+msgid "Referral Commissions"
+msgstr "रेफरल कमीशन"
+
+msgid "User Name"
+msgstr "उपयोगकर्ता नाम"
+
+msgid "Child Name"
+msgstr "बच्चे का नाम"
+
+msgid "Level Commissions"
+msgstr "स्तर कमीशन"
+
+msgid "Bonus Details"
+msgstr "बोनस विवरण"
+
+msgid "Bonus Count"
+msgstr "बोनस की गिनती"
+
+msgid "Account Details"
+msgstr "खाता विवरण"
+
+msgid "Current Balance"
+msgstr "वर्तमान शेष"
+
+msgid "Requested Balance"
+msgstr "आवश्यक शेष"
+
+msgid "Pending Balance"
+msgstr "बकाया राशि"
+
+msgid "Withdraw Amount"
+msgstr "निकासी"
+
+msgid "Enter Amount"
+msgstr "राशी डालें"
+
+msgid "Enter Numeric Value"
+msgstr "संख्यात्मक मान दर्ज करें"
+
+msgid "Request Now"
+msgstr "अब निवेदन करें"
+
+msgid "Withdrawal List"
+msgstr "निकासी सूची"
+
+msgid "#Id"
+msgstr "#Id"
+
+msgid "Status"
+msgstr "स्थिति"
+
+msgid "Mode"
+msgstr "विकल्प"
+
+msgid "Init Date"
+msgstr ""
+
+msgid "Process Date"
+msgstr "प्रक्रिया दिनांक"
+
+msgid "Initiated"
+msgstr "पहल"
+
+msgid "Processed"
+msgstr "संसाधित"
+
+msgid "Total"
+msgstr "कुल"
+
+msgid "Invite By e-Mail"
+msgstr "ई-मेल द्वारा आमंत्रित करें"
+
+msgid "You can invite any one just need to place the email and trigger invite button. Make sure email address is correct."
+msgstr "आप किसी को भी ईमेल भेज सकते हैं और आमंत्रित बटन को ट्रिगर कर सकते हैं। सुनिश्चित करें कि ईमेल पता सही है।"
+
+msgid "Please Enter e-Mail *"
+msgstr "कृपया ई-मेल दर्ज करें *"
+
+msgid "Invite"
+msgstr "आमंत्रित"
+
+msgid "Your Profile"
+msgstr "आपका प्रोफाइल"
+
+msgid "Downlines"
+msgstr "डाउनलाइन"
+
+msgid "Referrals"
+msgstr "रेफरल"
+
+msgid "Withdrawal Details"
+msgstr "निकासी विवरण"
+
+msgid "Withdrawal fee"
+msgstr "निकासी शुल्क"
+
+msgid "Request Date"
+msgstr "अनुरोध तिथि"
+
+msgid "Request amount is incorrect please check!!"
+msgstr "अनुरोध राशि गलत है कृपया जाँच करें !!"
+
+msgid "Please choose payment Mode!!"
+msgstr "कृपया भुगतान विकल्प चुनें !!"
+
+msgid "Transaction Id can't be Blank!!"
+msgstr "लेनदेन Id रिक्त नहीं हो सकती !!"
+
+msgid "A/c Holder"
+msgstr "A/c होल्डर"
+
+msgid "A/c Number"
+msgstr "A/c संख्या"
+
+msgid "Mob. Number"
+msgstr "मो. नंबर"
+
+msgid "Request Amount"
+msgstr "अनुरोध राशि"
+
+msgid "Payment Mode"
+msgstr "भुगतान विकल्प"
+
+msgid "Choose Mode"
+msgstr "विकल्प चुनें"
+
+msgid "Paypal"
+msgstr "Paypal"
+
+msgid "Bank Transfer"
+msgstr "बैंक हस्तांतरण"
+
+msgid "Transaction id"
+msgstr "लेन-देन Id"
+
+msgid "Enter Transaction Id"
+msgstr "लेनदेन Id दर्ज करें"
+
+msgid "Here you can only update the transaction Details %s(You need to do transaction manually)."
+msgstr "यहां आप केवल लेनदेन विवरण अपडेट कर सकते हैं %s (आपको मैन्युअल रूप से लेनदेन करने की आवश्यकता है)।"
+
+msgid "Payment already Updated!!"
+msgstr "भुगतान पहले से ही अद्यतन !!"
+
+msgid "Mail Settings"
+msgstr "मेल सेटिंग्स"
+
+msgid "Choose Configuration"
+msgstr "विन्यास चुनें"
+
+msgid "Registration Mail"
+msgstr "पंजीकरण मेल"
+
+msgid "Withdrawal Request Mail"
+msgstr "निकासी अनुरोध मेल"
+
+msgid "Withdrawal Pay Mail"
+msgstr "निकासी वेतन मेल"
+
+msgid "Payout Mail"
+msgstr "भुगतान मेल"
+
+msgid "Mail to"
+msgstr "मेल करें"
+
+msgid "Select Receiver"
+msgstr "रिसीवर चुनें"
+
+msgid "Admin"
+msgstr "व्यवस्थापक"
+
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+msgid "Both(Admin & User)"
+msgstr "दोनों (व्यवस्थापक और उपयोगकर्ता)"
+
+msgid "Subject"
+msgstr "विषय"
+
+msgid "Message"
+msgstr "संदेश"
+
+msgid "Click and use in Message"
+msgstr "संदेश में क्लिक करें और उपयोग करें"
+
+msgid "Site Name"
+msgstr "साइट का नाम"
+
+msgid "Site URL"
+msgstr "साइट URL"
+
+msgid "Site Lang"
+msgstr "साइट भाषा:"
+
+msgid "Admin Email"
+msgstr "व्यवस्थापक ईमेल"
+
+msgid "Admin Name"
+msgstr "व्यवस्थापक का नाम"
+
+msgid "User Data"
+msgstr "उपयोगकर्ता डेटा"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "key"
+msgstr "कुंजी"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "User id"
+msgstr "उपयोगकर्ता id"
+
+msgid "Level"
+msgstr "स्तर"
+
+msgid "Join Date"
+msgstr "दिनांक शामिल करें"
+
+msgid "Sponsor Data"
+msgstr "प्रायोजक डेटा"
+
+msgid "E-Mail"
+msgstr "ई-मेल"
+
+msgid "Parent Data"
+msgstr "अपलाइन डेटा"
+
+msgid "User Total Amounts"
+msgstr "उपयोगकर्ता कुल गणना"
+
+msgid "Withdrawal"
+msgstr "निकासी"
+
+msgid "Referral"
+msgstr "रेफरल"
+
+msgid "Join"
+msgstr "शामिल "
+
+msgid "Current"
+msgstr "वर्तमान"
+
+msgid "Shopping"
+msgstr "खरीदारी"
+
+msgid "Orders"
+msgstr "बुक किए गए आइटम"
+
+msgid "Downliners"
+msgstr "डाउनलाइनर्स"
+
+msgid "User Bank Details"
+msgstr "उपयोगकर्ता बैंक विवरण"
+
+msgid "IFSC"
+msgstr "IFSC"
+
+msgid "Mobile"
+msgstr "मोबाइल"
+
+msgid "Payout Details"
+msgstr "भुगतान विवरण"
+
+msgid "Payout Total"
+msgstr "भुगतान कुल"
+
+msgid "Payout Date"
+msgstr "भुगतान तिथि"
+
+msgid "Tables"
+msgstr "तालिका"
+
+msgid "Payout"
+msgstr "भुगतान"
+
+msgid "W- Req."
+msgstr "W- निवेदन"
+
+msgid "W- Pay"
+msgstr "w- वेतन"
+
+msgid "SMS Settings"
+msgstr "SMS सेटिंग"
+
+msgid "Withdrawal Request sms"
+msgstr "निकासी अनुरोध sms"
+
+msgid "Withdrawal Pay sms"
+msgstr "विदड्राल पे sms"
+
+msgid "Payout sms"
+msgstr "भुगतान sms"
+
+msgid "Registration sms"
+msgstr "पंजीकरण sms"
+
+msgid "sms to"
+msgstr "sms चुनें"
+
+msgid "Select Receiver"
+msgstr "रिसीवर चुनें"
+
+msgid "Admin sms"
+msgstr "व्यवस्थापक sms"
+
+msgid "BY %s"
+msgstr "द्वारा %s"
+
+msgid "Upgrade"
+msgstr "उन्नयन"
+
+msgid "Settings"
+msgstr "सेटिंग"
+
+msgid "Get it Now"
+msgstr "अभी प्राप्त करें "
+
+msgid "Purchase Licence"
+msgstr "खरीद लाइसेंस"
+
+msgid "Please enter Email Address"
+msgstr "ई-मेल पता दर्ज करें"
+
+msgid "E-mail address is valid."
+msgstr "ई-मेल पता मान्य है।"
+
+msgid "Register First User"
+msgstr "पहले उपयोगकर्ता को पंजीकृत करें"
+
+msgid "Your Bank has been updated successfully"
+msgstr "आपका बैंक सफलतापूर्वक अपडेट हो गया है"
+
+msgid "Something going wrong please Check"
+msgstr "कुछ गलत हो रहा है कृपया जाँचें"
+
+msgid "less than 1 second ago"
+msgstr "1 सेकंड से कम समय पहले"
+
+msgid "year"
+msgstr "वर्ष"
+
+msgid "month"
+msgstr "महीना"
+
+msgid "day"
+msgstr "दिन"
+
+msgid "hour"
+msgstr "घंटे"
+
+msgid "minute"
+msgstr "मिनट"
+
+msgid "second"
+msgstr "सेकंड"
+
+msgid "about"
+msgstr "के बारे में"
+
+msgid "s"
+msgstr "S"
+
+msgid "ago"
+msgstr "पहले"
+
+msgid "Username could not be empty!!!"
+msgstr "उपयोगकर्ता नाम खाली नहीं हो सका !!!"
+
+msgid "Username not exist, please register your account!!!"
+msgstr "उपयोगकर्ता नाम मौजूद नहीं है, कृपया अपना खाता पंजीकृत करें !!!"
+
+msgid "Password could not be empty!!!"
+msgstr "पासवर्ड खाली नहीं हो सकता !!!"
+
+msgid "Please Provide Valid Credentials!!!"
+msgstr "कृपया मान्य प्रमाण प्रदान करें !!!"
+
+msgid "Acount Details"
+msgstr "खाता विवरण"
+
+msgid "MyCred Wallet"
+msgstr "प्रमाण बटुआ"
+
+msgid "Registration"
+msgstr "पंजीकरण"
+
+msgid "Send Invitation"
+msgstr "निमंत्रण भेजें"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "First Name could Not be empty"
+msgstr "पहला नाम खाली नहीं हो सकता है"
+
+msgid "Last Name could Not be empty"
+msgstr "अंतिम नाम रिक्त नहीं हो सकता है"
+
+msgid "Userame could Not be empty"
+msgstr "उपयोगकर्ता नाम रिक्त नहीं हो सकता है"
+
+msgid "Sorry Password does not match."
+msgstr "क्षमा करें पासवर्ड मेल नहीं खाता है।"
+
+msgid "Email could Not be empty"
+msgstr "ईमेल खाली नहीं हो सकता है"
+
+msgid "E-mail address is invalid."
+msgstr "ई-मेल पता अमान्य है।"
+
+msgid "E-mail address is already in use."
+msgstr "ई-मेल पता पहले से उपयोग में है।"
+
+msgid "Sponsor could Not be empty"
+msgstr "प्रायोजक खाली नहीं हो सकता"
+
+msgid "Parent could Not be empty"
+msgstr "अभिभावक खाली नहीं हो सकते"
+
+msgid "Phone could Not be empty"
+msgstr "फोन खाली नहीं हो सकता है"
+
+msgid "Phone number is not verified"
+msgstr "फोन नंबर सत्यापित नहीं है"
+
+msgid "Position could Not be empty"
+msgstr "स्थिति खाली नहीं हो सकती"
+
+msgid "Something going wrong please check!!!"
+msgstr "कुछ गलत हो रहा है कृपया जाँच करें !!!"
+
+msgid "Binary User has been created successfully."
+msgstr "Binary उपयोगकर्ता सफलतापूर्वक बनाया गया है।"
+
+msgid "Incorrect Password, Please check.."
+msgstr "गलत पासवर्ड, कृपया जाँचें .."
+
+msgid "User Already Exist. Please try another user"
+msgstr "उपयोगकर्ता पहले से ही मौजूद हैं। कृपया किसी अन्य उपयोगकर्ता का प्रयास करें"
+
+msgid "User Name could not be empty."
+msgstr "उपयोगकर्ता पहले से ही मौजूद हैं। कृपया किसी अन्य उपयोगकर्ता का प्रयास करें"
+
+msgid "Congratulation!This username is avaiable."
+msgstr "बधाई हो! यह उपयोगकर्ता नाम उपलब्ध है।"
+
+msgid "Email Already Used by someone. Please try another Email"
+msgstr "ईमेल पहले से ही किसी के द्वारा इस्तेमाल किया गया है। कृपया एक और ईमेल का प्रयास करें"
+
+msgid "Email is invalid."
+msgstr "ईमेल अमान्य है।"
+
+msgid "Email could not be empty."
+msgstr "ईमेल खाली नहीं हो सकता। है।"
+
+msgid "Congratulation!This Email is avaiable."
+msgstr "बधाई! यह ईमेल उपलब्ध है।"
+
+msgid "Congratulation!This Sponsor is avaiable."
+msgstr "अभिनंदन! यह प्रायोजक अचूक है।"
+
+msgid "Sponsor Not Valid. Please try another Sponsor"
+msgstr "प्रायोजक मान्य नहीं है। कृपया किसी अन्य प्रायोजक का प्रयास करें"
+
+msgid "Please choose Fill Sponsor Name"
+msgstr "कृपया भरें प्रायोजक का नाम"
+
+msgid "Parent Not Valid. Please check"
+msgstr "अपलाइन मान्य नहीं हैं। कृपया जाँच करें"
+
+msgid "Parent Not Valid. because both position is full"
+msgstr "अपलाइन मान्य नहीं हैं। क्योंकि दोनों की स्थिति पूर्ण है"
+
+msgid "Congratulation! This parent is avaiable."
+msgstr "बधाई! यह अपलाइन अचूक है।"
+
+msgid "Password is valid."
+msgstr "पासवर्ड वैध है।"
+
+msgid "Congratulation! Password is valid."
+msgstr "बधाई! पासवर्ड मान्य है।"
+
+msgid "Transaction ID Could not be empty"
+msgstr "लेनदेन ID खाली नहीं हो सकता"
+
+msgid "Please Enter Withdrawal Amount"
+msgstr "कृपया वापसी राशि दर्ज करें"
+
+msgid "Please Update Your Bank details, then withdraw"
+msgstr "कृपया अपना बैंक विवरण अपडेट करें, फिर वापस लें"
+
+msgid "your request is submitted successfully"
+msgstr "आपका अनुरोध सफलतापूर्वक सबमिट किया गया"
+
+msgid "Sorry you entered wrong Amount please check"
+msgstr "क्षमा करें आपने गलत राशि दर्ज की है कृपया जाँच करें"
+
+msgid "Payment successfully updated!!!"
+msgstr "भुगतान सफलतापूर्वक अपडेट किया गया !!!"
+
+msgid "An error occured in payment update!!!"
+msgstr "भुगतान अद्यतन में त्रुटि आई !!!"
+
+msgid "OTP sent successfully"
+msgstr "OTP सफलतापूर्वक भेजा गया"
+
+msgid "Something going wrong! please check"
+msgstr "कुछ गलत हो रहा है! कृपया जाँच करें"
+
+msgid "Number Verified"
+msgstr "नंबर सत्यापित"
+
+msgid "Incorrect OTP, Please make valid request"
+msgstr "गलत OTP, कृपया वैध अनुरोध करें"
+
+msgid "Value"
+msgstr "मान"
+
+msgid "Remaining Balance"
+msgstr "शेष राशि"
+
+msgid "Initiated Date"
+msgstr "आरंभ की तारीख"
+
+msgid "Processed Date"
+msgstr "संसाधित तिथि"
+
+msgid "Transaction Id"
+msgstr "लेनदेन Id"
+
+msgid "Bonus Amount"
+msgstr "बोनस राशि"
+
+msgid "Referral Commission"
+msgstr "रेफरल कमीशन"
+
+msgid "Could Not be Empty"
+msgstr "खाली नहीं हो सकता है"
+
+msgid "Subject can't be blank"
+msgstr "विषय रिक्त नहीं हो सकता है"
+
+msgid "Message Body can't be blank"
+msgstr "संदेश निकाय रिक्त नहीं हो सकता है"
+
+msgid "Email has been successfully Sent to "
+msgstr "ईमेल सफलतापूर्वक भेजा गया है"
+
+msgid "Withrawal Requested"
+msgstr "भुगतान का निवेदन""
+
+msgid "Payment Processed"
+msgstr "भुगतान संसाधित"
+
+msgid "Unilevel Woocommerce"
+msgstr "Unilevel Woocommerce"
+
+msgid "Payout Processed"
+msgstr "भुगतान किया गया प्रक्रिया"
+
+msgid "Registration Success"
+msgstr "पंजीकरण सफलता"
+
+msgid "Affiliate Link"
+msgstr "संबद्ध लिंक"
+
+msgid "Your invitation send successfully."
+msgstr "आपका निमंत्रण सफलतापूर्वक भेजा गया।"
+
+msgid "Something went wrong please check..."
+msgstr "कुछ गलत हुआ कृपया जाँच करें ..."
+
+msgid "Please Set Points Value"
+msgstr "कृपया मान सेट करें"
+
+msgid "Payout id %d credits"
+msgstr "भुगतान आईडी %d क्रेडिट"
+
+msgid "Withdrawal %d Debit"
+msgstr "निकासी %d डेबिट"
+
+msgid "Withdrawal id %d credits"
+msgstr "निकासी id %d क्रेडिट"
+
+msgid "succesfully update"
+msgstr "सफलतापूर्वक अपडेट करें"
+
+msgid "Back"
+msgstr "वापस"
+
+msgid "position"
+msgstr "स्थिति"
+
+msgid "RESULTS"
+msgstr "परिणाम"
+
+msgid "Current Balance : %s
+msgstr "वर्तमान शेष राशि: %s
+
+msgid "Search"
+msgstr "खोज"
+
+msgid "By Username, Sponsor, userkey, position"
+msgstr "उपयोगकर्ता नाम, प्रायोजक, उपयोगकर्ता, स्थिति" द्वारा
+
+msgid "Type Subject..."
+msgstr "विषय लिखें ..."
+
+
+msgid "Type Message Body"
+msgstr "संदेश संदेश टाइप करें"
+
+msgid "Send"
+msgstr "भेजें"
+
+msgid "User Reports"
+msgstr "उपयोगकर्ता विवरण"
+
+msgid "payout Reports"
+msgstr "भुगतान विवरण"
+
+msgid "Withdrawal Records"
+msgstr "निकाली रिकॉर्ड"
+
+msgid "Message Center"
+msgstr "संदेश केंद्र"
+
+msgid "SMS Settings"
+msgstr "SMS सेटिंग"
+
+msgid "Reset Data"
+msgstr "डेटा रीसेट करें"
+
+msgid "Payout Id"
+msgstr "भुगतान Id"
+
+msgid "Payout Date"
+msgstr "भुगतान तिथि"
+
+msgid "Export to CSV"
+msgstr "CSV को निर्यात करें"
+
+msgid "id"
+msgstr "id"
+
+msgid "Bonus C."
+msgstr "बोनस c."
+
+msgid "Total C."
+msgstr "कुल c."
+
+msgid "Action"
+msgstr "कार्य"
+
+msgid "Reset BMP PLan"
+msgstr "रीसेट BMP PLan"
+
+msgid "Reset Data"
+msgstr "डेटा रीसेट करें"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "User Id"
+msgstr "उपयोगकर्ता Id"
+
+msgid "Creation Date"
+msgstr "निर्माण तिथि"
+
+msgid "Payment Status"
+msgstr "भुगतान स्थिति"
+
+msgid "Product Price"
+msgstr "उत्पाद मूल्य"
+
+msgid "Paid"
+msgstr "भुगतान किया है"
+
+msgid "Withdrawal Initiated Date"
+msgstr "निकासी की आरंभिक तिथि"
+
+msgid "Withdrawal Processed Date"
+msgstr "वापस ले ली गई प्रक्रिया"
+
+msgid "amount"
+msgstr "राशि"
+
+msgid "Withdrawal Fee"
+msgstr "निकासी शुल्क"
+
+msgid "Withdrawal Mode"
+msgstr "निकासी साधन"
+
+msgid "Account Holder"
+msgstr "खाता धारक"
+
+msgid "Account Number"
+msgstr "खाता संख्या"
+
+msgid "Withdrawal Reports"
+msgstr "वापसी रिपोर्ट"
+
+msgid "Initeated Date"
+msgstr "अंकित तिथि"
+
+msgid "Withdraw Fee"
+msgstr "शुल्क वापस लें"
+
+msgid "General"
+msgstr "सामान्य"
+
+msgid "Elegibility"
+msgstr "पात्रता"
+
+msgid "Bonuses"
+msgstr "बोनस"
+
+msgid "Levels"
+msgstr "स्तर"
+
+msgid "Licence"
+msgstr "लाइसेंस"
+
+msgid "PLease Correct this Slab"
+msgstr "कृपया इस स्लैब को ठीक करें"
+
+msgid "Bonus Settings"
+msgstr "बोनस सेटिंग"
+
+msgid "Bonus Criteria"
+msgstr "बोनस मानदंड"
+
+msgid "Select Bonus Criteria"
+msgstr "बोनस मानदंड चुनें"
+
+msgid "No. of Pairs"
+msgstr "जोड़े की संख्या"
+
+msgid "No. of Personal Referrals"
+msgstr "व्यक्तिगत रेफ़रल की संख्या"
+
+msgid "Bonus Slab"
+msgstr "बोनस स्लैब"
+
+msgid "Remove"
+msgstr "निकालें"
+
+msgid "Add"
+msgstr "जोड़ें"
+
+msgid "Can't Empty"
+msgstr "खाली नहीं कर सकता"
+
+msgid "Eligibility Settings"
+msgstr "पात्रता सेटिंग्स"
+
+msgid "Minimum Personal Points"
+msgstr "न्यूनतम व्यक्तिगत अंक"
+
+
+msgid "Direct Referrals"
+msgstr "प्रत्यक्ष रेफरल"
+
+msgid "If  Direct Referrals 1 then  place 1 in Left and Right Referrals %s"
+msgstr "यदि डायरेक्ट रेफ़रल 1 है तो  लेफ्ट और राइट रेफ़रल में 1 जगह %s"
+
+msgid "Left Leg Referral(s)"
+msgstr "बाएं लेग रेफरल (s)"
+
+msgid "Referral Left"
+msgstr "रेफ़रल बाएं"
+
+msgid "Right Leg Referral(s)"
+msgstr "दांए लेग रेफरल (s)"
+
+msgid "Referral Right"
+msgstr "रेफ़रल दांए"
+
+msgid "Save Eligibility Settings"
+msgstr "पात्रता सेटिंग्स सहेजें"
+
+msgid "Username could not be empty."
+msgstr "उपयोगकर्ता नाम खाली नहीं हो सकता। है।"
+
+msgid "Username already exists."
+msgstr "उपयोगकर्ता नाम पहले से मौजूद है।"
+
+msgid "Please enter your password."
+msgstr "कृपया अपना पासवर्ड दर्ज करें।"
+
+msgid "Please confirm your password."
+msgstr "कृपया अपने पासवर्ड की पुष्टि करें।"
+
+msgid "Please Correct the following Error(s):"
+msgstr "कृपया निम्न त्रुटि को ठीक करें:"
+
+msgid "Enter User Name"
+msgstr "उपयोगकर्ता नाम दर्ज करें"
+
+msgid "Enter Password"
+msgstr "कुंजिका दर्ज करें"
+
+msgid "Enter Confirm Password"
+msgstr "कुंजिका की पुष्टि करें"
+
+msgid "Email Id"
+msgstr "ई-मेल Id"
+
+msgid "Enter Email Address"
+msgstr "ईमेल पता दर्ज करें"
+
+msgid "Enter First Name"
+msgstr "पहला नाम दर्ज करें"
+
+msgid "Last Name"
+msgstr "अंतिम नाम"
+
+msgid "First Name"
+msgstr "पहला नाम"
+
+msgid "Enter Last Name"
+msgstr "अंतिम नाम दर्ज करें"
+
+msgid "General Settings"
+msgstr "सामान्य सेटिंग"
+
+msgid "Cron Job Url:"
+msgstr "Cron जॉब url"
+
+msgid "Currency"
+msgstr "मुद्रा"
+
+msgid "Please Choose Currency"
+msgstr "कृपया मुद्रा चुनें"
+
+msgid "Plan Based On"
+msgstr "योजना पर आधारित"
+
+msgid "Select Plan Base"
+msgstr "Plan आधार चुनें"
+
+msgid "Points"
+msgstr "अंक"
+
+msgid "Price"
+msgstr "मूल्य"
+
+msgid "Affiliate user Redirect Page"
+msgstr "संबद्ध उपयोगकर्ता पुनर्निर्देशित पृष्ठ"
+
+msgid "Select Redirect Page"
+msgstr "पुनर्निर्देशित पृष्ठ का चयन करें"
+
+msgid "Redirect After Registeration"
+msgstr "पंजीकरण के बाद पुनर्निर्देशित करें"
+
+msgid "Order Status for Distribution"
+msgstr "वितरण के लिए  की स्थिति"
+
+msgid "Select Order Status"
+msgstr "बुकिंग की स्थिति चुनें"
+
+msgid "OTP Verification"
+msgstr "OTP सत्यापन"
+
+msgid "Notice:"
+msgstr "सूचना:"
+
+msgid "Please confirm SMS setings for this feature"
+msgstr "कृपया इस सुविधा के लिए एसएमएस की पुष्टि करें"
+
+msgid "If you checked auto fill and register more then one member then can not be change Auto Fill."
+msgstr "यदि आपने स्वतः भरण की जाँच की और अधिक पंजीकरण किया है तो एक सदस्य फिर स्वतः भरण नहीं बदल सकता है।"
+
+msgid "Withdrawal Limit"
+msgstr "निकासी सीमा"
+
+msgid "Min Amount"
+msgstr "न्यूनतम राशि"
+
+msgid "Max Amount"
+msgstr "अधिकतम राशि"
+
+msgid "Save General Settings"
+msgstr "सामान्य सेटिंग सहेजें"
+
+msgid "Please correct red rows first"
+msgstr "पहले लाल पंक्तियों को सही करें"
+
+msgid "You have successfully updated your Commissions settings."
+msgstr "आपने अपनी कमीशन सेटिंग को सफलतापूर्वक अपडेट कर दिया है।"
+
+msgid "Level Name"
+msgstr "स्तर का नाम"
+
+msgid "Commission Amount"
+msgstr "कमीशन राशि"
+
+msgid "Commission Type"
+msgstr "कमीशन प्रकार"
+
+msgid "Specify the level %s"
+msgstr "स्तर %s निर्दिष्ट करें"
+
+msgid "Type"
+msgstr "प्रकार"
+
+msgid "Fixed"
+msgstr "निश्चित"
+
+msgid "Percent"
+msgstr "प्रतिशत"
+
+msgid "Save Level Commission"
+msgstr "स्तर आयोग सहेजें"
+
+msgid "Levels Settings"
+msgstr "स्तर सेटिंग"
+
+msgid "Disable/Enable"
+msgstr "अक्षम / सक्षम करें"
+
+msgid "No Of levels"
+msgstr "स्तरों की संख्या"
+
+msgid "Save Levels Settings"
+msgstr "स्तर सेटिंग सहेजें"
+
+msgid "Your Licence is valid, Now you can enjoy our plugin.
+              Your licence Expiry Date is"
+msgstr "आपका लाइसेंस वैध है, अब आप हमारे प्लगइन का आनंद ले सकते हैं।
+              आपका लाइसेंस समाप्ति तिथि है "
+
+msgid "Your licence expiry date is "
+msgstr "आपकी लाइसेंस की समाप्ति तिथि है"
+
+msgid "Your Licence Key"
+msgstr "आपका लाइसेंस कुंजी"
+
+msgid "Enter Key"
+msgstr "कुंजी दर्ज करें"
+
+msgid "Enter your Licence Key , if you have not any key! so please purchase the licence key."
+msgstr "अपनी लाइसेंस कुंजी दर्ज करें, यदि आपके पास कोई कुंजी नहीं है! तो कृपया लाइसेंस कुंजी खरीद लें।"
+
+msgid "Update Licence Key"
+msgstr "लाइसेंस कुंजी अपडेट करें"
+
+msgid "MyCred"
+msgstr "MyCred"
+
+msgid "MyCred Settings"
+msgstr "MyCred सेटिंग्स"
+
+msgid "Show myCred Menu"
+msgstr "MyCred मेनू दिखाएँ"
+
+msgid "Save MyCred Settings"
+msgstr "MyCred सेटिंग्स सहेजें"
+
+msgid "Payout Settings"
+msgstr "भुगतान सेटिंग्स"
+
+msgid "No. Points"
+msgstr "अंकों की संख्या"
+
+msgid "Pair"
+msgstr "जोड़ी"
+
+msgid "Pair1"
+msgstr "जोड़ी 1"
+
+msgid "Further Pair"
+msgstr "आगे की जोड़ी"
+
+msgid "Initial Pairs"
+msgstr "प्रारंभिक जोड़े"
+
+
+msgid "Initial Pair Amount"
+msgstr "प्रारंभिक जोड़ी राशि"
+
+msgid "Initial Pair Commission Amount"
+msgstr "प्रारंभिक जोड़ी आयोग राशि"
+
+msgid "Further Pair Amount"
+msgstr "आगे जोड़ी राशि"
+
+msgid "Direct Referral Commission"
+msgstr "प्रत्यक्ष रेफरल आयोग"
+
+msgid "Referral Commission Amount"
+msgstr "रेफरल कमीशन राशि"
+
+msgid "service Charge (If any)"
+msgstr "सेवा शुल्क (यदि कोई हो)"
+
+msgid "Service Charge Amount"
+msgstr "सेवा शुल्क राशि"
+
+msgid "Tax Deduction"
+msgstr "कर कटौती"
+
+msgid "Tds"
+msgstr "कर"
+
+msgid "Save Payout Settings"
+msgstr "भुगतान सेटिंग सहेजें"
+
+msgid "TeraWallet"
+msgstr "TeraWallet"
+
+msgid "Woo Wallet Settings"
+msgstr "Woo Wallet सेटिंग"
+
+msgid "Show Woo Wallet Menu"
+msgstr "Woo Walle मेनू दिखाएं"
+
+msgid "Save Woo Wallet Settings"
+msgstr "Woo Wallet सेटिंग सहेजें"
+
+msgid "Text Local credentials has issue please check..."
+msgstr "Text Local क्रेडेंशियल्स में समस्या है कृपया जाँच करें ..."
+
+msgid "Twilio credentials has issue please check..."
+msgstr "Twilio क्रेडेंशियल्स ने जारी किया है कृपया जाँच करें ..."
+
+msgid "Plivo credentials has issue please check..."
+msgstr "Plivo क्रेडेंशियल्स ने जारी किया है कृपया जाँच करें ..."
+
+msgid "SMS Settings has been saved successfully"
+msgstr "SMS सेटिंग्स को सफलतापूर्वक सहेजा गया है"
+
+msgid "Text Local SMS Gateway"
+msgstr "Text Local SMS Gateway"
+
+msgid "Text Local User Email"
+msgstr "Text Local उपयोगकर्ता ईमेल"
+
+msgid "User Email "
+msgstr "उपयोगकर्ता ईमेल"
+
+msgid "Text Local Api Key"
+msgstr "Text Local Api Key"
+
+msgid "Api Key"
+msgstr "Api Key"
+
+msgid "Twilio SMS Gateway"
+msgstr "Twilio SMS Gateway"
+
+msgid "Twilio Phone Number"
+msgstr "Twilio फोन नंबर"
+
+msgid "Twilio Phone Number ex +19876543210 "
+msgstr "Twilio फोन नंबर पूर्व +19876543210"
+
+msgid "Twilio ACCOUNT SID"
+msgstr "Twilio ACCOUNT SID"
+
+msgid "Twilio ACCOUNT SID"
+msgstr "Twilio ACCOUNT SID"
+
+msgid "Twilio AUTH TOKEN"
+msgstr "Twilio AUTH TOKEN"
+
+msgid "Plivo SMS Gateway"
+msgstr "Plivo SMS Gateway"
+
+msgid "Plivo Phone Number"
+msgstr "Plivo फोन नंबर"
+
+msgid "Plivo Phone Number ex +19876543210 "
+msgstr "Plivo फोन नंबर पूर्व +19876543210"
+
+msgid "Plivo Auth ID"
+msgstr "Plivo Auth ID"
+
+msgid "Plivo ACCOUNT SID"
+msgstr "Plivo ACCOUNT SID"
+
+msgid "Plivo Auth Token"
+msgstr "Plivo Auth Token"
+
+msgid "Please Setup SMS Gateway before settings"
+msgstr "सेटिंग से पहले SMS Gateway सेटअप करें"
+msgstr"
+
+msgid "Commissions & Bonuses"
+msgstr "कमीशन और बोनस"
+
+msgid "Total Amt."
+msgstr "कुल रकम"
+
+msgid "Childs Name"
+msgstr "चिल्ड नेम"
+
+msgid "Amount"
+msgstr "राशि"
+
+msgid "Run Payouts"
+msgstr " भुगतान चलाएं"
+
+msgid "Regular Bonus"
+msgstr "नियमित बोनस"
+
+msgid "TDS"
+msgstr "TDS"
+
+msgid "Net Amount"
+msgstr "शुद्ध राशि"
+
+msgid "Run Payout"
+msgstr " भुगतान चलाएं"
+
+msgid "level commission"
+msgstr "स्तर कमीशन"
+
+msgid "No data available in table"
+msgstr "तालिका में कोई डेटा उपलब्ध नहीं है"
+
+msgid "Geneology"
+msgstr "वंशावली"
+
+msgid "Payout Reports"
+msgstr "भुगतान रिपोर्ट"
+
+msgid "Configuration"
+msgstr "विन्यास"
+
+msgid "Distribute Commission"
+msgstr "कमीशन वितरित करें"
+
+msgid "Payout Run"
+msgstr "पेआउट रन"
+
+msgid "Addons"
+msgstr "एडऑन"
+
+msgid "Level Commission"
+msgstr "स्तर कमीशन"
+
+msgid "Users Reports"
+msgstr "उपयोगकर्ता रिपोर्ट"
+
+msgid "TeraWallet allows customers to store their money in a digital wallet. The customers can use the wallet money for purchasing products from the store. The customers can add money to their wallet using various payment methods set by the admin. The admin can set cashback rules according to cart price or product. The customers will receive their cashback amount in their wallet account. The admin can process refund to customer wallet."
+msgstr "TeraWallet ग्राहकों को अपने पैसे को डिजिटल वॉलेट में संग्रहीत करने की अनुमति देता है। ग्राहक स्टोर से उत्पादों को खरीदने के लिए वॉलेट के पैसे का उपयोग कर सकते हैं। ग्राहक व्यवस्थापक द्वारा निर्धारित विभिन्न भुगतान विधियों का उपयोग करके अपने वॉलेट में पैसे जोड़ सकते हैं। व्यवस्थापक द्वारा कैशबैक सेट कर सकते हैं। कार्ट मूल्य या उत्पाद के अनुसार नियम। ग्राहकों को उनके बटुए खाते में कैशबैक राशि प्राप्त होगी। व्यवस्थापक ग्राहक वॉलेट में धनवापसी की प्रक्रिया कर सकता है। "
+
+msgid "myCred is an intelligent and adaptive points management system that allows you to build and manage a broad range of digital rewards including points, ranks and, badges on your WordPress/WooCommerce powered website"
+msgstr "myCred एक बुद्धिमान और अनुकूली अंक प्रबंधन प्रणाली है जो आपको अंकों, रैंक और, अपने वर्डप्रेस / WooCommerce संचालित वेबसाइट पर बैज सहित डिजिटल पुरस्कारों की एक विस्तृत श्रृंखला के निर्माण और प्रबंधन की अनुमति देता है"
+
+
+msgid "Jan"
+msgstr "जनवरी"
+
+msgid "Feb"
+msgstr "फरवरी"
+
+msgid "Mar"
+msgstr "मार्च"
+
+msgid "Apr"
+msgstr "अप्रैल"
+
+msgid "May"
+msgstr "मई"
+
+msgid "Jun"
+msgstr "जून"
+
+msgid "Jul"
+msgstr "जुलाई"
+
+msgid "Aug"
+msgstr "अगस्त"
+
+msgid "Sep"
+msgstr "सितम्बर"
+
+msgid "Oct"
+msgstr "अक्टूबर"
+
+msgid "Nov"
+msgstr "नवम्बर"
+
+msgid "Dec"
+msgstr "दिसम्बर"
+
+msgid "Graphical Transaction Details As per Month"
+msgstr "प्रति माह ग्राफिकल लेन-देन विवरण"
+
+msgid "Under"
+msgstr "अंडर"
+
+msgid "UnPaid"
+msgstr "अवैतनिक"
+
+msgid "Personal Points is the Qualification Points which is provide the  eligibility for commissions"
+msgstr "व्यक्तिगत अंक योग्यता अंक है जो आयोगों के लिए पात्रता प्रदान करता है"
+
+msgid "Points Value"
+msgstr "अंक मूल्य"
+
+msgid "Percentage"
+msgstr "प्रतिशत"
+
+
+msgid "Service Charge (If any)"
+msgstr "सेवा शुल्क (यदि कोई हो)"
+
+msgid "Mail center"
+msgstr "मेल केंद्र"
+
+msgid "Key"
+msgstr "कुंजी"
+
+msgid "Specify the level %s Name"
+msgstr "स्तर %s नाम निर्दिष्ट करें"
+
+msgid "Auto Fill"
+msgstr "स्वतः भरण"
+
+msgid "Personal Points is the Qualification Points which is provide the eligibility for commissions"
+msgstr "व्यक्तिगत अंक योग्यता अंक है जो आयोगों के लिए पात्रता प्रदान करता है"

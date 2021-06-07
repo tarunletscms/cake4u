@@ -1,0 +1,124 @@
+Features
+
+Admin:
+
+General Settings:
+1. First User Registration of network
+2. Redirect after Registeration
+3. Plan based on
+4. Affiliate user Redirect Page
+5. Order status Distribution
+6. Number of Referrals
+7. Auto fill
+8. Withdrawal Limit ( Min-Max )
+
+Eligibility Settings:
+
+1. Minimum Personal point	
+2. Direct Referrals
+3. Left leg Referrals
+4. Right leg referrals
+
+Payout Settings:
+1. Point value
+2. Pair
+3. Further Pairs
+4. Initial pairs
+5. Initial pair Amount (Fixed/Percentage)
+6. Further pair Amount (Fixed/Percentage)
+7. Direct referral Commission (Fixed/Percentage)
+8. Service Charges (Fixed/Percentage)
+9. Tax deduction (Fixed/Percentage)
+
+Bonus Settings:
+1. Bonus criteria (No of personal referrals/No of pairs)
+2. 
+
+Level Settings: 
+1. No of levels
+
+
+Level Commission: 
+1. Level name
+2. Commission Amount
+3. Commission Type(Fixed/percentage)
+
+
+Distribute Commission
+Payout run
+Addons
+
+User reports
+Payout reports
+Withdrawal records
+Genealogy
+Message center
+
+Email Notification:
+1. Registration
+2. Withdrawal request
+3. Withdrawal Pay
+4. Payout SMS Settings
+
+SMS Settings:
+1. Text Local
+2. Twilio
+
+Reset data
+
+
+
+
+New features
+1. on checkout page registration for mlm member
+2. When user register by our registration page, user should be loged in if the no user is loged in and should be redirect to settings redirect page
+3. If user already loged in then user should be redirect after register a new member.
+4. Success message should be display after register
+5. The pages prefix should be like that, the page could not conflict by any other plugin page
+6. Need a point value column in orders list in woocommerce
+
+
+
+
+Issues:
+
+1. When sponsor or parent not valid then the field should be blank -- DONE
+2. In level commission the parent name should be in place child name -- DONE
+3. In mail settings on register mail, the bank Detail should be enable to fill there. -- DONE
+
+4. when distributing commission, it is infinite look for bmw_pair_commission table -- DONE
+
+
+5. 
+
+
+6. user first also should be compitable with woocommerce as from register page -- DONE
+
+7. if user is loged in and role as mlm then the MLM registration should not be appear in checkout. – DONE
+
+8. with the twillio the otp fill option is not showing
+9. Level commission issue
+
+
+
+For some users it is calculating correct
+And for some it is not calculating correct why?- DONE
+
+
+10. 
+
+
+11. 
+
+The price is not calculating based on point value conversion.-done
+
+12. Admin should be able to unpaid and paid the users, need a column in admin users area. Done
+
+13. If the MLM users is not there then if you are clicking on any settings then surly should be redirect on the first user -DONE
+
+14. MLM member should be able to register by the checkout page as well -- Pending 
+
+15. When the 1:2 is set then pair should be consider from left to right or left to right -- Pending
+
+
+

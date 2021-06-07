@@ -1,0 +1,113 @@
+.nodeHasChildren {
+    fill: black!important;
+}
+.nodeDoesNotHaveChildren {
+    fill: #08313e!important;
+}
+g .link {
+    stroke: #7f8284!important;
+    }
+
+    #wpcontent
+    {
+    	padding-left: 0!important;
+    }
+    #wpfooter
+    {
+    	display: none!important;
+    }
+    .let-bmp-menu
+    {
+        background-color: #000;
+        border: solid #ccc;
+        border-width: 1px;
+        border-radius: 0;
+        color:#fff;
+        padding: 5px 15px!important;
+    }
+    .nav-tab-active
+    {
+          background-color: #fff;
+           color:#000;
+    }
+    .let-bmw_admin_main div ul
+    {
+        border-radius: 5px;
+        background-color: #fff;
+    }
+    .let-left-section,.let-right-section
+    {
+        min-height: 700px!important;
+    }
+    .let-bmw_admin_main div ul li.current:first-child
+    {
+        border-radius: 5px 5px 0px 0px;
+    }
+    .let-bmw_admin_main div ul li.current:last-child
+    {
+        border-radius: 0px 0px 5px 5px;
+    }
+    .let-bmw_admin_main div ul li
+    {
+       margin: 0!important;
+       border-bottom: 1px solid #ccc;
+    }
+    .let-bmw_admin_main div ul li:last-child
+    {
+        border-bottom: none!important;
+    }
+    .let-bmw-left-border
+    {
+        border-left:5px solid #9a0000!important;
+    }
+
+/*slider checkbox*/
+
+.let-switch {
+  display: inline-block;
+  height: 20px;
+  position: relative;
+  width: 40px;
+}
+
+.let-switch input {
+  display:none;
+}
+
+.let-slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+
+.let-slider:before {
+  background-color: #fff;
+  bottom: 2px;
+  content: "";
+  height: 16px;
+  left: 4px;
+  position: absolute;
+  transition: .4s;
+  width: 16px;
+}
+
+input:checked + .let-slider {
+      background-color: #FF9800;
+}
+
+input:checked + .let-slider:before {
+  transform: translateX(16px);
+}
+
+.let-slider.let-round {
+  border-radius: 34px;
+}
+
+.let-slider.let-round:before {
+  border-radius: 50%;
+}

@@ -1,0 +1,1615 @@
+# Translation of Plugins - Binary MLM WooCommerce translation in French (France)
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-21 13:01:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Binary MLM WooCommerce\n"
+
+
+msgid "Before activating Binary MLM WooCommerce, Please activate WooCommerce plugin."
+msgstr "Avant d'activer Binary MLM WooCommerce, veuillez activer le plugin WooCommerce."
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "BMW Sponsor Could Not be Empty."
+msgstr "Le sponsor BMW n'a pas pu être vide."
+
+
+msgid "BMW parent Could Not be Empty."
+msgstr "Le parent BMW ne pouvait pas être vide."
+
+msgid "BMW position Could Not be Empty."
+msgstr "La position BMW ne pouvait pas être vide."
+
+msgid "Product Points(PV)"
+msgstr "Points de produit (PV)"
+
+msgid "Enter Product Points"
+msgstr "Entrez les points de produit"
+
+msgid "BMW Commissions"
+msgstr "Commissions BMW"
+
+msgid "Enable for bmw Commissions"
+msgstr "Activer pour les commissions BMW"
+
+msgid "View Binary MLM WooCommerce Settings"
+msgstr "Afficher les paramètres Binary MLM WooCommerce"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "Personal Info"
+msgstr "Informations personnelles"
+
+msgid "Bank Details"
+msgstr "Coordonnées bancaires"
+
+msgid "Genealogy"
+msgstr "Généalogie"
+
+msgid "Payout List"
+msgstr "Liste des paiements"
+
+msgid "Withdrawal Amount"
+msgstr " Montant de retrait"
+
+msgid "Register"
+msgstr "S'inscrire"
+
+msgid "Join Network"
+msgstr "Rejoindre le réseau"
+
+msgid "Invitation"
+msgstr "Invitation"
+
+msgid "Binary MLM WooCommerce"
+msgstr "Binary MLM WooCommerce"
+
+msgid "BMW PRO"
+msgstr "BMW PRO"
+
+msgid "Log in Please"
+msgstr "Connectez-vous SVP"
+
+msgid "Join Us"
+msgstr "Rejoignez-nous"
+
+msgid "Join Now"
+msgstr "Adhérer maintenant"
+
+msgid "Sponsor Name *"
+msgstr "Nom du sponsor *"
+
+msgid "Parent Name*"
+msgstr "Nom du parent*"
+
+msgid "Enter Your Epin *"
+msgstr "Entrez votre Epin *"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Left"
+msgstr "La gauche"
+
+msgid "Right"
+msgstr "Droite"
+
+msgid "Please Login"
+msgstr "Veuillez vous connecter"
+
+msgid "Login Form"
+msgstr "Formulaire de connexion"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Log in"
+msgstr "s'identifier"
+
+msgid "Create Account"
+msgstr "Créer un compte"
+
+msgid "Register With BMP"
+msgstr "Inscrivez-vous avec BMP"
+
+msgid "Registeration Form"
+msgstr "Formulaire d'inscription"
+
+msgid "User Name *"
+msgstr "Nom d'utilisateur *"
+
+msgid "Your Email *"
+msgstr "Votre Email *"
+
+msgid "First Name *"
+msgstr "Prénom *"
+
+msgid "Last Name *"
+msgstr "Nom de famille *"
+
+msgid "Password *"
+msgstr "Mot de passe *"
+
+msgid "Confirm Password *"
+msgstr "Confirmez le mot de passe *"
+
+msgid "Your Phone *"
+msgstr "Ton téléphone *"
+
+msgid "Enter OTP"
+msgstr "Entrez OTP"
+
+msgid "Resend"
+msgstr "Renvoyer"
+
+msgid "Verify"
+msgstr "Vérifier"
+
+msgid "Get OTP"
+msgstr "Obtenez OTP"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Already have Account?"
+msgstr "Vous avez déjà un compte?"
+
+msgid "Login Now"
+msgstr "Connecte-toi maintenant"
+
+msgid "Total Downliners"
+msgstr "Total des descendants"
+
+msgid "From last Week"
+msgstr "De la semaine dernière"
+
+msgid "Total Earnings"
+msgstr "Total des gains"
+
+msgid "Total Withdrawals"
+msgstr "Total des retraits"
+
+msgid "Total Bonus Earn"
+msgstr "Bonus total de gain"
+
+msgid "Total Left Users"
+msgstr "Nombre total d'utilisateurs restants"
+
+msgid "Total Right Users"
+msgstr "Total des bons utilisateurs"
+
+msgid "Graphical Transaction Details"
+msgstr "Détails graphiques de la transaction"
+
+msgid "As per Month"
+msgstr "Par mois"
+
+msgid "Top User"
+msgstr "Top utilisateur"
+
+msgid "Profiles"
+msgstr "Profils"
+
+msgid "Paid & Right"
+msgstr "Payé et droit"
+
+msgid "Paid & Left"
+msgstr "Payé et gauche"
+
+msgid "Un Paid"
+msgstr "Non payé"
+
+msgid "User Key :"
+msgstr "Clé utilisateur:"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Earnings"
+msgstr "Gains"
+
+msgid "My Total Earnings"
+msgstr "Mes gains totaux"
+
+msgid "Charges"
+msgstr "Des charges"
+
+msgid "Pair Commission"
+msgstr "Commission de paire"
+
+msgid "Refferal Commission"
+msgstr "Commission réfférale"
+
+msgid "Level Commission"
+msgstr "Commission de niveau"
+
+msgid "Bonus Commission"
+msgstr "Commission de bonus"
+
+msgid "Tax"
+msgstr "Impôt"
+
+msgid "Service Charge"
+msgstr "Frais de service"
+
+msgid "Recent Registerations"
+msgstr "Inscriptions récentes"
+
+msgid "Personal Information"
+msgstr "Informations personnelles"
+
+msgid "User Details"
+msgstr "Détails de l'utilisateur"
+
+msgid "Your Email"
+msgstr "Votre e-mail"
+
+msgid "Your Mobile"
+msgstr "Votre téléphone portable"
+
+msgid "Reg. Date"
+msgstr "Reg. Date"
+
+msgid "BMP Details
+msgstr "Détails BMP"
+
+msgid "User Key"
+msgstr "Clé utilisateur"
+
+msgid "Sponsor Key"
+msgstr "Clé du sponsor"
+
+msgid "Parent Key"
+msgstr "Clé parent"
+
+msgid "Payment Date"
+msgstr "Date de paiement"
+
+msgid "Account Holder Name"
+msgstr "Nom du titulaire du compte"
+
+msgid "A/c Holder Name"
+msgstr "Nom du titulaire de la climatisation"
+
+msgid "Account No"
+msgstr "Numéro de compte"
+
+msgid "Bank Name"
+msgstr "Nom de banque"
+
+msgid "Branch"
+msgstr "Branche"
+
+msgid "Branch Name"
+msgstr "Nom de la filiale"
+
+msgid "IFSC Code"
+msgstr "Code IFSC"
+
+msgid "Contact No."
+msgstr "Numéro de contact"
+
+msgid "Payouts List"
+msgstr "Liste des paiements"
+
+msgid "Payout id"
+msgstr "id de paiement"
+
+msgid "Pair C."
+msgstr "Paire C."
+
+msgid "'Referral C."
+msgstr "Référence C."
+
+msgid "Level C."
+msgstr "Niveau C."
+
+msgid "To"
+msgstr "À"
+
+msgid "Bonus"
+msgstr "Prime"
+
+msgid "Total Points"
+msgstr "Points totaux"
+
+msgid "Total Amount"
+msgstr "Montant total"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Pair Commissions"
+msgstr "Commissions de paire"
+
+msgid "Childs"
+msgstr "Enfants"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Total Commission"
+msgstr "Commission totale"
+
+msgid "Referral Commissions"
+msgstr "Commissions de référence"
+
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+msgid "Child Name"
+msgstr "Nom de l'enfant"
+
+msgid "Level Commissions"
+msgstr "Commissions de niveau"
+
+msgid "Bonus Details"
+msgstr "Détails du bonus"
+
+msgid "Bonus Count"
+msgstr "Nombre de bonus"
+
+msgid "Account Details"
+msgstr "Détails du compte"
+
+msgid "Current Balance"
+msgstr "Solde actuel"
+
+msgid "Requested Balance"
+msgstr "Solde demandé"
+
+msgid "Pending Balance"
+msgstr "Solde en attente"
+
+msgid "Withdraw Amount"
+msgstr "Retirer le montant"
+
+msgid "Enter Amount"
+msgstr "Entrer le montant"
+
+msgid "Enter Numeric Value"
+msgstr "Entrez une valeur numérique"
+
+msgid "Request Now"
+msgstr "Demandez maintenant"
+
+msgid "Withdrawal List"
+msgstr "Liste de retrait"
+
+msgid "#Id"
+msgstr "#Id"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Init Date"
+msgstr "Date de début"
+
+msgid "Process Date"
+msgstr "Date de traitement"
+
+msgid "Initiated"
+msgstr "Initié"
+
+msgid "Processed"
+msgstr "Traité"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Invite By e-Mail"
+msgstr "Inviter par email"
+
+msgid "You can invite any one just need to place the email and trigger invite button. Make sure email address is correct."
+msgstr "Vous pouvez inviter n'importe qui, il suffit de placer l'e-mail et de déclencher le bouton d'invitation. Assurez-vous que l'adresse e-mail est correcte."
+
+msgid "Please Enter e-Mail *"
+msgstr "Veuillez entrer votre e-mail *"
+
+msgid "Invite"
+msgstr "Inviter"
+
+msgid "Your Profile"
+msgstr "Votre profil"
+
+msgid "Downlines"
+msgstr "Descendants"
+
+msgid "Referrals"
+msgstr "Références"
+
+msgid "Withdrawal Details"
+msgstr "Détails du retrait"
+
+msgid "Withdrawal fee"
+msgstr "Frais de retrait"
+
+msgid "Request Date"
+msgstr "Date de la demande"
+
+msgid "Request amount is incorrect please check!!"
+msgstr "Le montant de la demande est incorrect, veuillez vérifier !!"
+
+msgid "Please choose payment Mode!!"
+msgstr "Veuillez choisir le mode de paiement !!"
+
+msgid "Transaction Id can't be Blank!!"
+msgstr "L'ID de transaction ne peut pas être vide !!"
+
+msgid "A/c Holder"
+msgstr "titulaire A / C"
+
+msgid "A/c Number"
+msgstr "Numéro A / C"
+
+msgid "Mob. Number"
+msgstr "Foule. Nombre"
+
+msgid "Request Amount"
+msgstr "Foule. Nombre"
+
+msgid "Payment Mode"
+msgstr "Mode de paiement"
+
+msgid "Choose Mode"
+msgstr "Choisissez le mode"
+
+msgid "Paypal"
+msgstr "Paypal"
+
+msgid "Bank Transfer"
+msgstr "Virement"
+
+msgid "Transaction id"
+msgstr "Id de transaction"
+
+msgid "Enter Transaction Id"
+msgstr "Entrez l'ID de transaction"
+
+msgid "Here you can only update the transaction Details %s(You need to do transaction manually)."
+msgstr "Ici, vous ne pouvez mettre à jour que les détails de la transaction% s (vous devez effectuer la transaction manuellement)."
+
+msgid "Payment already Updated!!"
+msgstr "Paiement déjà mis à jour !!"
+
+msgid "Mail Settings"
+msgstr "Paramètres de messagerie"
+
+msgid "Choose Configuration"
+msgstr "Choisissez la configuration"
+
+msgid "Registration Mail"
+msgstr "Mail d'inscription"
+
+msgid "Withdrawal Request Mail"
+msgstr "Mail de demande de retrait"
+
+msgid "Withdrawal Pay Mail"
+msgstr "Retrait Pay Mail"
+
+msgid "Payout Mail"
+msgstr "Mail de paiement"
+
+msgid "Mail to"
+msgstr "Mail à"
+
+msgid "Select Receiver"
+msgstr "Sélectionnez le récepteur"
+
+msgid "Admin"
+msgstr "Administrateur"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Both(Admin & User)"
+msgstr "Les deux (administrateur et utilisateur)"
+
+msgid "Subject"
+msgstr "Matière"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Click and use in Message"
+msgstr "Cliquez et utilisez dans Message"
+
+msgid "Site Name"
+msgstr "Nom du site"
+
+msgid "Site URL"
+msgstr "URL du site"
+
+msgid "Site Lang"
+msgstr "Site Lang"
+
+msgid "Admin Email"
+msgstr "E-mail de l'administrateur"
+
+msgid "Admin Name"
+msgstr "Nom de l'administrateur"
+
+msgid "User Data"
+msgstr "Données d'utilisateur"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "key"
+msgstr "clé"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "User id"
+msgstr "Id d'utilisateur"
+
+msgid "Level"
+msgstr "Niveau"
+
+msgid "Join Date"
+msgstr "Date d'inscription"
+
+msgid "Sponsor Data"
+msgstr "Données du sponsor"
+
+msgid "E-Mail"
+msgstr "Email"
+
+msgid "Parent Data"
+msgstr "Données parentales"
+
+msgid "User Total Amounts"
+msgstr "Montants totaux de l'utilisateur"
+
+msgid "Withdrawal"
+msgstr "Retrait"
+
+msgid "Referral"
+msgstr "Référence"
+
+msgid "Join"
+msgstr "Joindre"
+
+msgid "Current"
+msgstr "Actuel"
+
+msgid "Shopping"
+msgstr "Achats"
+
+msgid "Orders"
+msgstr "Ordres"
+
+msgid "Downliners"
+msgstr "Descendants"
+
+msgid "User Bank Details"
+msgstr "Détails bancaires de l'utilisateur"
+
+msgid "IFSC"
+msgstr "IFSC"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Payout Details"
+msgstr "Détails du paiement"
+
+msgid "Payout Total"
+msgstr "Total des paiements"
+
+msgid "Payout Date"
+msgstr "Date de paiement"
+
+msgid "Tables"
+msgstr "les tables"
+
+msgid "Payout"
+msgstr "Paiement"
+
+msgid "W- Req."
+msgstr "W- Demande"
+
+msgid "W- Pay"
+msgstr "W- Payer"
+
+msgid "SMS Settings"
+msgstr "Paramètres SMS"
+
+msgid "Withdrawal Request sms"
+msgstr "Demande de retrait par SMS"
+
+msgid "Withdrawal Pay sms"
+msgstr "Retrait Payant SMS"
+
+msgid "Payout sms"
+msgstr "Paiement par SMS"
+
+msgid "Registration sms"
+msgstr "Inscription SMS"
+
+msgid "sms to"
+msgstr "sms à"
+
+msgid "Select Receiver"
+msgstr "Sélectionnez le récepteur"
+
+msgid "Admin sms"
+msgstr "Admin sms"
+
+msgid "sms"
+msgstr "sms"
+
+msgid "sms"
+msgstr "sms"
+
+msgid "BY %s"
+msgstr "PAR % "
+
+msgid "Upgrade"
+msgstr "Améliorer"
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "Get it Now"
+msgstr "Obtenez le maintenant"
+
+msgid "Purchase Licence"
+msgstr "Acheter une licence"
+
+msgid "Please enter Email Address"
+msgstr "Veuillez saisir votre adresse e-mail"
+
+msgid "E-mail address is valid."
+msgstr "L'adresse e-mail est valide."
+
+msgid "Register First User"
+msgstr "Enregistrer le premier utilisateur"
+
+msgid "Your Bank has been updated successfully"
+msgstr "Votre banque a été mise à jour avec succès"
+
+msgid "Something going wrong please Check"
+msgstr "Quelque chose ne va pas, veuillez vérifier"
+
+msgid "less than 1 second ago"
+msgstr "il y a moins d'une seconde"
+
+msgid "year"
+msgstr "an"
+
+msgid "month"
+msgstr "mois"
+
+msgid "day"
+msgstr "journée"
+
+msgid "hour"
+msgstr "heure"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "seconde"
+
+msgid "about"
+msgstr "sur"
+
+msgid "s"
+msgstr "s"
+
+msgid "ago"
+msgstr "depuis"
+
+msgid "Username could not be empty!!!"
+msgstr "Le nom d'utilisateur ne peut pas être vide !!!"
+
+msgid "Username not exist, please register your account!!!"
+msgstr "Le nom d'utilisateur n'existe pas, veuillez enregistrer votre compte !!!"
+
+msgid "Password could not be empty!!!"
+msgstr "Le mot de passe ne peut être vide !!!"
+
+msgid "Please Provide Valid Credentials!!!"
+msgstr "Veuillez fournir des informations d'identification valides !!!"
+
+msgid "Acount Details"
+msgstr "Détails du compte"
+
+msgid "MyCred Wallet"
+msgstr "Portefeuille MyCred"
+
+msgid "Registration"
+msgstr "enregistrement"
+
+msgid "Send Invitation"
+msgstr "Envoyer une invitation"
+
+msgid "No"
+msgstr "Non"
+
+msgid "First Name could Not be empty"
+msgstr "Le prénom ne peut pas être vide"
+
+msgid "Last Name could Not be empty"
+msgstr "Le nom ne peut pas être vide"
+
+msgid "Userame could Not be empty"
+msgstr "Le nom d'utilisateur ne peut pas être vide"
+
+msgid "Sorry Password does not match."
+msgstr " Désolé, le mot de passe ne correspond pas."
+
+msgid "Email could Not be empty"
+msgstr "L'e-mail ne peut pas être vide"
+
+msgid "E-mail address is invalid."
+msgstr "Adresse email invalide."
+
+msgid "E-mail address is already in use."
+msgstr "L'adresse e-mail est déjà utilisée."
+
+msgid "Sponsor could Not be empty"
+msgstr "Le sponsor ne peut pas être vide"
+
+msgid "Parent could Not be empty"
+msgstr "Le parent ne pouvait pas être vide"
+
+msgid "Phone could Not be empty"
+msgstr "Le téléphone ne peut pas être vide"
+
+msgid "Phone number is not verified"
+msgstr "Le numéro de téléphone n'est pas vérifié"
+
+msgid "Position could Not be empty"
+msgstr "La position ne peut pas être vide"
+
+msgid "Something going wrong please check!!!"
+msgstr "Quelque chose ne va pas s'il vous plaît vérifier !!!"
+
+msgid "Binary User has been created successfully."
+msgstr "L'utilisateur binaire a été créé avec succès."
+
+msgid "Incorrect Password, Please check.."
+msgstr "Mot de passe incorrect, veuillez vérifier."
+
+msgid "User Already Exist. Please try another user"
+msgstr "L'utilisateur existe déjà. Veuillez essayer un autre utilisateur"
+
+msgid "User Name could not be empty."
+msgstr "Le nom d'utilisateur ne peut pas être vide."
+
+msgid "Congratulation!This username is avaiable."
+msgstr "Félicitations! Ce nom d'utilisateur est disponible."
+
+msgid "Email Already Used by someone. Please try another Email"
+msgstr "Courriel déjà utilisé par quelqu'un. Veuillez essayer un autre e-mail"
+
+msgid "Email is invalid."
+msgstr "Le courriel est invalide."
+
+msgid "Email could not be empty."
+msgstr "L'e-mail ne peut pas être vide."
+
+msgid "Congratulation!This Email is avaiable."
+msgstr "Félicitations! Cet e-mail est disponible."
+
+msgid "Congratulation!This Sponsor is avaiable."
+msgstr "Félicitations, ce sponsor est disponible."
+
+msgid "Sponsor Not Valid. Please try another Sponsor"
+msgstr "Commanditaire non valide. Veuillez essayer un autre sponsor"
+
+msgid "Please choose Fill Sponsor Name"
+msgstr "Veuillez choisir Remplir le nom du sponsor"
+
+msgid "Parent Not Valid. Please check"
+msgstr "Parent non valide. Vérifiez s'il vous plaît"
+
+msgid "Parent Not Valid. because both position is full"
+msgstr "Parent non valide. parce que les deux positions sont pleines"
+
+msgid "Congratulation! This parent is avaiable."
+msgstr "Félicitations! Ce parent est disponible."
+
+msgid "Password is valid."
+msgstr "Le mot de passe est valide."
+
+msgid "Congratulation! Password is valid."
+msgstr "Félicitations! Le mot de passe est valide."
+
+msgid "Transaction ID Could not be empty"
+msgstr "L'ID de transaction ne peut pas être vide"
+
+msgid "Please Enter Withdrawal Amount"
+msgstr "Veuillez saisir le montant du retrait"
+
+msgid "Please Update Your Bank details, then withdraw"
+msgstr "Veuillez mettre à jour vos coordonnées bancaires, puis retirer"
+
+msgid "your request is submitted successfully"
+msgstr "votre demande a été soumise avec succès"
+
+msgid "Sorry you entered wrong Amount please check"
+msgstr "Désolé, vous avez entré un montant incorrect, veuillez vérifier"
+
+msgid "Payment successfully updated!!!"
+msgstr "Paiement mis à jour avec succès !!!"
+
+msgid "An error occured in payment update!!!"
+msgstr "Une erreur est survenue lors de la mise à jour du paiement !!!"
+
+msgid "OTP sent successfully"
+msgstr "OTP envoyé avec succès"
+
+msgid "Something going wrong! please check"
+msgstr "Quelque chose ne va pas! Vérifiez s'il vous plaît"
+
+msgid "Number Verified"
+msgstr "Numéro vérifié"
+
+msgid "Incorrect OTP, Please make valid request"
+msgstr "OTP incorrect, veuillez faire une demande valide"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Remaining Balance"
+msgstr "Solde restant"
+
+msgid "Initiated Date"
+msgstr "Date de lancement"
+
+msgid "Processed Date"
+msgstr "Date de traitement"
+
+msgid "Transaction Id"
+msgstr "id de transaction"
+
+msgid "Bonus Amount"
+msgstr "Montant du bonus"
+
+msgid "Referral Commission"
+msgstr "Commission de référence"
+
+msgid "Could Not be Empty"
+msgstr "Ne peut pas être vide"
+
+msgid "Subject can't be blank"
+msgstr "Le sujet ne peut pas être vide"
+
+msgid "Message Body can't be blank"
+msgstr "Le corps du message ne peut pas être vide"
+
+msgid "Email has been successfully Sent to "
+msgstr "L'e-mail a bien été envoyé à"
+
+msgid "Withrawal Requested"
+msgstr "Withrawal demandé"
+
+msgid "Payment Processed"
+msgstr "Paiement traité"
+
+msgid "Unilevel Woocommerce"
+msgstr "Unilevel Woocommerce"
+
+msgid "Payout Processed"
+msgstr "Paiement traité"
+
+msgid "Registration Success"
+msgstr "Inscription réussie"
+
+msgid "Affiliate Link"
+msgstr "Lien d'affiliation"
+
+msgid "Your invitation send successfully."
+msgstr "Votre invitation a bien été envoyée."
+
+msgid "Something went wrong please check..."
+msgstr "Une erreur s'est produite, veuillez vérifier ..."
+
+msgid "Please Set Points Value"
+msgstr "Veuillez définir la valeur des points"
+
+msgid "Payout id %d credits"
+msgstr "ID de paiement %d crédits"
+
+msgid "Withdrawal %d Debit"
+msgstr "Retrait %d Débit"
+
+msgid "Withdrawal id %d credits"
+msgstr "ID de retrait %d crédits"
+
+msgid "succesfully update"
+msgstr "mise à jour avec succès"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "position"
+msgstr "position"
+
+msgid "RESULTS"
+msgstr "RÉSULTATS"
+
+msgid "Current Balance : %s
+msgstr "Solde actuel: %s"
+
+msgid "Search"
+msgstr "Chercher"
+
+msgid "By Username, Sponsor, userkey, position"
+msgstr "Par nom d'utilisateur, sponsor, clé utilisateur, position"
+
+msgid "Type Subject..."
+msgstr "Type de sujet ..."
+
+msgid "Type Message Body"
+msgstr "Type de corps du message"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "User Reports"
+msgstr "Rapports d'utilisateurs"
+
+msgid "payout Reports"
+msgstr "Rapports de paiement"
+
+msgid "Withdrawal Records"
+msgstr "Registres de retrait"
+
+msgid "Message Center"
+msgstr "Centre de messagerie"
+
+msgid "SMS Settings"
+msgstr "Paramètres SMS"
+
+msgid "Reset Data"
+msgstr "Réinitialiser les données"
+
+msgid "Payout Id"
+msgstr "Id de paiement"
+
+msgid "Payout Date"
+msgstr "Date de paiement"
+
+msgid "Export to CSV"
+msgstr "Exporter au format CSV"
+
+msgid "id"
+msgstr "id"
+
+msgid "Bonus C."
+msgstr "Prime C."
+
+msgid "Total C."
+msgstr "Total C."
+
+msgid "Action"
+msgstr "action"
+
+msgid "Reset BMP PLan"
+msgstr "Réinitialiser le plan BMP"
+
+msgid "Reset Data"
+msgstr "Réinitialiser les données"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "User Id"
+msgstr "Id d'utilisateur"
+
+msgid "Creation Date"
+msgstr "Date de création"
+
+msgid "Payment Status"
+msgstr "Statut de paiement"
+
+msgid "Product Price"
+msgstr "Prix ​​du produit"
+
+msgid "Paid"
+msgstr "Payé"
+
+msgid "Withdrawal Initiated Date"
+msgstr "Date de début du retrait"
+
+msgid "Withdrawal Processed Date"
+msgstr "Date de traitement du retrait"
+
+msgid "amount"
+msgstr "montant"
+
+msgid "Withdrawal Fee"
+msgstr "frais de retrait"
+
+msgid "Withdrawal Mode"
+msgstr "Mode de retrait"
+
+msgid "Account Holder"
+msgstr "Titulaire de compte"
+
+msgid "Account Number"
+msgstr "Numéro de compte"
+
+msgid "Withdrawal Reports"
+msgstr "Rapports de retrait"
+
+msgid "Initeated Date"
+msgstr "Date de lancement"
+
+msgid "Withdraw Fee"
+msgstr "Frais de retrait"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Elegibility"
+msgstr "Élégibilité"
+
+msgid "Bonuses"
+msgstr "Bonus"
+
+msgid "Levels"
+msgstr "Les niveaux"
+
+msgid "Licence"
+msgstr "Licence"
+
+msgid "PLease Correct this Slab"
+msgstr "Veuillez corriger cette dalle"
+
+msgid "Bonus Settings"
+msgstr "Paramètres de bonus"
+
+msgid "Bonus Criteria"
+msgstr "Critères de bonus"
+
+msgid "Select Bonus Criteria"
+msgstr "Sélectionnez les critères de bonus"
+
+msgid "No. of Pairs"
+msgstr "Nbre de paires"
+
+msgid "No. of Personal Referrals"
+msgstr "Nombre de références personnelles"
+
+msgid "Bonus Slab"
+msgstr "Dalle bonus"
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Can't Empty"
+msgstr "Impossible de vider"
+
+msgid "Eligibility Settings"
+msgstr "Paramètres d'éligibilité"
+
+msgid "Minimum Personal Points"
+msgstr "Points personnels minimum"
+
+msgid "Personal Points is the Qualification Points which is provide the  eligibility for commissions"
+msgstr "Les points personnels sont les points de qualification qui donnent l'éligibilité aux commissions"
+
+msgid "Direct Referrals"
+msgstr "Renvois directs"
+
+msgid "If  Direct Referrals 1 then  place 1 in Left and Right Referrals %s"
+msgstr "Si les références directes 1, placez 1 dans les références gauche et droite %s"
+
+msgid "Left Leg Referral(s)"
+msgstr "Référence (s) jambe  Référence (s) jambe droite
+"
+
+msgid "Referral Left"
+msgstr "Référence gauche"
+
+msgid "Right Leg Referral(s)"
+msgstr "Référence (s) jambe gauche"
+
+msgid "Referral Right"
+msgstr "Droit de référence"
+
+msgid "Save Eligibility Settings"
+msgstr "Enregistrer les paramètres d'éligibilité"
+
+msgid "Username could not be empty."
+msgstr "Le nom d'utilisateur ne peut pas être vide."
+
+msgid "Username already exists."
+msgstr "Ce nom d'utilisateur existe déjà."
+
+msgid "Please enter your password."
+msgstr "S'il vous plait entrez votre mot de passe."
+
+msgid "Please confirm your password."
+msgstr "Veuillez confirmer votre mot de passe."
+
+msgid "Please Correct the following Error(s):"
+msgstr "Veuillez corriger les erreurs suivantes(s):"
+
+msgid "Enter User Name"
+msgstr "Saisissez votre nom d'utilisateur"
+
+msgid "Enter Password"
+msgstr "Entrer le mot de passe"
+
+msgid "Enter Confirm Password"
+msgstr "Entrez Confirmer le mot de passe"
+
+msgid "Email Id"
+msgstr "Email Id"
+
+msgid "Enter Email Address"
+msgstr "Entrer l'adresse e-mail"
+
+msgid "Enter First Name"
+msgstr "Entrez votre prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Enter Last Name"
+msgstr "Entrer le nom de famille"
+
+msgid "General Settings"
+msgstr "réglages généraux"
+
+msgid "Cron Job Url:"
+msgstr "URL de la tâche Cron:"
+
+msgid "Currency"
+msgstr "Devise"
+
+msgid "Please Choose Currency"
+msgstr "Veuillez choisir la devise"
+
+msgid "Plan Based On"
+msgstr "Plan basé sur"
+
+msgid "Select Plan Base"
+msgstr "Sélectionnez la base du plan"
+
+msgid "Points"
+msgstr "Points"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Affiliate user Redirect Page"
+msgstr "Page de redirection de l'utilisateur affilié"
+
+msgid "Select Redirect Page"
+msgstr "Sélectionnez la page de redirection"
+
+msgid "Redirect After Registeration"
+msgstr "Rediriger après l'inscription"
+
+msgid "Order Status for Distribution"
+msgstr "Statut de la commande pour la distribution"
+
+msgid "Select Order Status"
+msgstr "Sélectionnez le statut de la commande"
+
+msgid "OTP Verification"
+msgstr "Vérification OTP"
+
+msgid "Notice:"
+msgstr "Remarquer:"
+
+msgid "Please confirm SMS setings for this feature"
+msgstr "Veuillez confirmer les paramètres SMS pour cette fonctionnalité"
+
+msgid "If you checked auto fill and register more then one member then can not be change Auto Fill."
+msgstr "Si vous avez coché le remplissage automatique et enregistré plus d'un membre, vous ne pouvez pas modifier le remplissage automatique."
+
+msgid "Withdrawal Limit"
+msgstr "Limite de retrait"
+
+msgid "Min Amount"
+msgstr "Montant minimum"
+
+msgid "Max Amount"
+msgstr "Montant maximum"
+
+msgid "Save General Settings"
+msgstr "Enregistrer les paramètres généraux"
+
+msgid "Please correct red rows first"
+msgstr "Veuillez d'abord corriger les lignes rouges"
+
+msgid "You have successfully updated your Commissions settings."
+msgstr "Vous avez mis à jour avec succès vos paramètres de commissions."
+
+msgid "Level Name"
+msgstr "Nom du niveau"
+
+msgid "Commission Amount"
+msgstr "Montant de la commission"
+
+msgid "Commission Type"
+msgstr "Type de commission"
+
+msgid "Specify the level %s"
+msgstr "Spécifiez le niveau %s"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Fixed"
+msgstr "Fixé"
+
+msgid "Percent"
+msgstr "Pour cent"
+
+msgid "Save Level Commission"
+msgstr "Commission de niveau de sauvegarde"
+
+msgid "Levels Settings"
+msgstr "Paramètres des niveaux"
+
+msgid "Disable/Enable"
+msgstr "Désactiver / Activer"
+
+msgid "No Of levels"
+msgstr "Pas de niveaux"
+
+msgid "No of levels"
+msgstr "No de niveaux"
+
+msgid "Save Levels Settings"
+msgstr "Enregistrer les paramètres des niveaux"
+
+msgid "Your Licence is valid, Now you can enjoy our plugin.
+              Your licence Expiry Date is"
+msgstr "Votre licence est valide, vous pouvez maintenant profiter de notre plugin.
+              La date d'expiration de votre licence est"
+
+msgid "Your licence expiry date is "
+msgstr "La date d'expiration de votre licence est"
+
+msgid "Your Licence Key"
+msgstr "Votre clé de licence"
+
+msgid "Enter Key"
+msgstr "La touche Entrée"
+
+msgid "Enter your Licence Key , if you have not any key! so please purchase the licence key."
+msgstr "Entrez votre clé de licence, si vous n'avez aucune clé! veuillez donc acheter la clé de licence."
+
+msgid "Update Licence Key"
+msgstr "Mettre à jour la clé de licence"
+
+msgid "MyCred"
+msgstr "MyCred"
+
+msgid "MyCred Settings"
+msgstr "Paramètres MyCred"
+
+msgid "Show myCred Menu"
+msgstr "Afficher le menu myCred"
+
+msgid "Save MyCred Settings"
+msgstr "Enregistrer les paramètres MyCred"
+
+msgid "Payout Settings"
+msgstr "Paramètres de paiement"
+
+msgid "No. Points"
+msgstr "Nbre de points"
+
+msgid "Pair"
+msgstr "Paire"
+
+msgid "Pair1"
+msgstr "Paire1"
+
+msgid "Further Pair"
+msgstr "Paire supplémentaire"
+
+msgid "Initial Pairs"
+msgstr "Paires initiales"
+
+msgid "Initial Pair"
+msgstr "Paire initiale"
+
+msgid "Initial Pair Amount"
+msgstr "Montant initial de la paire"
+
+msgid "Initial Pair Commission Amount"
+msgstr "Montant de la commission de la paire initiale"
+
+msgid "Further Pair Amount"
+msgstr "Montant de la paire supplémentaire"
+
+msgid "Direct Referral Commission"
+msgstr "Commission de référence directe"
+
+msgid "Referral Commission Amount"
+msgstr "Montant de la commission de renvoi"
+
+msgid "service Charge (If any)"
+msgstr "frais de service (le cas échéant)"
+
+msgid "Service Charge Amount"
+msgstr "Montant des frais de service"
+
+msgid "Tax Deduction"
+msgstr "Remise sur les impôts"
+
+msgid "Tds"
+msgstr "Tds"
+
+msgid "Save Payout Settings"
+msgstr "Enregistrer les paramètres de paiement"
+
+msgid "TeraWallet"
+msgstr "TeraWallet"
+
+msgid "Woo Wallet Settings"
+msgstr "Paramètres du portefeuille Woo"
+
+msgid "Show Woo Wallet Menu"
+msgstr "Afficher le menu du portefeuille Woo"
+
+msgid "Save Woo Wallet Settings"
+msgstr "Enregistrer les paramètres du portefeuille Woo"
+
+msgid "Text Local credentials has issue please check..."
+msgstr "Text Local les informations d'identification ont un problème, veuillez vérifier ..."
+
+msgid "Twilio credentials has issue please check..."
+msgstr "Twilio les informations d'identification ont un problème, veuillez vérifier ..."
+
+msgid "Plivo credentials has issue please check..."
+msgstr "Plivo les informations d'identification ont un problème, veuillez vérifier ..."
+
+msgid "SMS Settings has been saved successfully"
+msgstr "Les paramètres SMS ont été enregistrés avec succès"
+
+msgid "Text Local SMS Gateway"
+msgstr "Passerelle SMS Text Local
+
+msgid "Text Local User Email"
+msgstr "E-mail de l'utilisateur Text Local
+
+msgid "User Email"
+msgstr "Email de l'utilisateur"
+
+msgid "Text Local Api Key"
+msgstr "Clé API Text Local"
+
+msgid "Api Key"
+msgstr Clé API""
+
+msgid "Twilio SMS Gateway"
+msgstr "Passerelle SMS Twilio"
+
+msgid "Twilio Phone Number"
+msgstr "Numéro de téléphone Twilio"
+
+msgid "Twilio Phone Number ex +19876543210 "
+msgstr "Numéro de téléphone Twilio ex +19876543210"
+
+msgid "Twilio ACCOUNT SID"
+msgstr "SID DU COMPTE Twilio"
+
+msgid "Twilio ACCOUNT SID"
+msgstr "SID DU COMPTE Twilio"
+
+msgid "Twilio AUTH TOKEN"
+msgstr "JETON D'AUTH Twilio"
+
+msgid "Plivo SMS Gateway"
+msgstr "Plivo SMS Gateway"
+
+msgid "Plivo Phone Number"
+msgstr "Numéro de téléphone Plivo"
+
+msgid "Plivo Phone Number ex +19876543210"
+msgstr "Numéro de téléphone de Plivo ex +19876543210"
+
+msgid "Plivo Auth ID"
+msgstr "Id d'authentification Plivo"
+
+msgid "Plivo ACCOUNT SID"
+msgstr "SID DU COMPTE Plivo"
+
+msgid "Plivo Auth Token"
+msgstr "Jeton d'authentification Plivo"
+
+msgid "Please Setup SMS Gateway before settings"
+msgstr "Veuillez configurer la passerelle SMS avant les paramètres"
+
+msgid "Commissions & Bonuses"
+msgstr "Commissions et bonus"
+
+msgid "Total Amt."
+msgstr "Montant total"
+
+msgid "Childs Name"
+msgstr "Nom de l'enfant"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Run Payouts"
+msgstr "Exécuter les paiements"
+
+msgid "Regular Bonus"
+msgstr "Bonus régulier"
+
+msgid "TDS"
+msgstr "TDS"
+
+msgid "Net Amount"
+msgstr "Montant net"
+
+msgid "Run Payout"
+msgstr "Exécuter le paiement"
+
+msgid "level commission"
+msgstr "commission de niveau"
+
+msgid "Level Commission"
+msgstr "Commission de niveau"
+
+msgid "No data available in table"
+msgstr "aucune donnée disponible"
+
+msgid "Geneology"
+msgstr "Généologie"
+
+msgid "Payout Reports"
+msgstr "Rapports de paiement"
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "Distribute Commission"
+msgstr "Distribuer la commission"
+
+msgid "Payout Run"
+msgstr "Exécuter le paiement"
+
+msgid "Addons"
+msgstr "Addons"
+
+msgid "Users Reports"
+msgstr "Rapports des utilisateurs"
+
+msgid "TeraWallet allows customers to store their money in a digital wallet. The customers can use the wallet money for purchasing products from the store. The customers can add money to their wallet using various payment methods set by the admin. The admin can set cashback rules according to cart price or product. The customers will receive their cashback amount in their wallet account. The admin can process refund to customer wallet."
+msgstr "TeraWallet permet aux clients de stocker leur argent dans un portefeuille numérique. Les clients peuvent utiliser l'argent du portefeuille pour acheter des produits dans le magasin. Les clients peuvent ajouter de l'argent à leur portefeuille en utilisant diverses méthodes de paiement définies par l'administrateur. L'administrateur peut définir des règles de remboursement en fonction du prix du panier ou du produit. Les clients recevront le montant de leur remise sur leur compte portefeuille. L'administrateur peut traiter le remboursement dans le portefeuille du client."
+
+msgid "myCred is an intelligent and adaptive points management system that allows you to build and manage a broad range of digital rewards including points, ranks and, badges on your WordPress/WooCommerce powered website"
+msgstr "myCred est un système de gestion de points intelligent et adaptatif qui vous permet de créer et de gérer une large gamme de récompenses numériques, y compris des points, des classements et des badges sur votre site Web alimenté par WordPress / WooCommerce"
+
+msgid "Jan"
+msgstr "janvier"
+
+msgid "Feb"
+msgstr "février"
+
+msgid "Mar"
+msgstr "Mars"
+
+msgid "Apr"
+msgstr "avril"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Jun"
+msgstr "Juin"
+
+msgid "Jul"
+msgstr "juillet"
+
+msgid "Aug"
+msgstr "août"
+
+msgid "Sep"
+msgstr "septembre"
+
+msgid "Oct"
+msgstr "octobre"
+
+msgid "Nov"
+msgstr "novembre"
+
+msgid "Dec"
+msgstr "décembre"
+
+msgid "Graphical Transaction Details As per Month"
+msgstr "étails graphiques de la transaction par mois"
+
+msgid "Under"
+msgstr "Sous"
+
+msgid "UnPaid"
+msgstr "Non payé"
+
+msgid "Points Value"
+msgstr "Valeur en points"
+
+msgid "Percentage"
+msgstr "Pourcentage"
+
+msgid "Tds"
+msgstr "Tds"
+
+msgid "Service Charge (If any)"
+msgstr "Frais de service (le cas échéant)"
+
+msgid "Mail center"
+msgstr "Centre de courrier"
+
+msgid "Key"
+msgstr "Clé"
+
+msgid "Specify the level %s Name"
+msgstr "Spécifiez le nom du niveau %s"
+
+msgid "Auto Fill"
+msgstr "Remplissage automatique"
+
+msgid "Personal Points is the Qualification Points which is provide the eligibility for commissions"
+MSGSTR "Les points personnels sont les points de qualification qui donnent l'éligibilité aux commissions"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

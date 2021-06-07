@@ -1,0 +1,19 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; 
+}
+get_header();
+?>
+<?php
+do_action('bmw_user_check_validate');
+do_action('bmw_user_account_detail');
+do_action('bmw_user_downlines_list');
+do_action('bmw_user_payout_list');
+do_action('bmw_user_bank_account');
+do_action('bmw_user_affiliate');
+do_action('bmw_user_update_epin');
+//do_action('bmw_user_withdrawal_graph');
+?>
+<?php
+get_footer();
+?>
